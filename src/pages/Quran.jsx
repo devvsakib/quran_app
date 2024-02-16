@@ -60,10 +60,7 @@ const Quran = () => {
                             setTotalLetter(e.target.value.replace(/\s/g, ''))
                         }}
                     />
-                    <Segmented className='mt-2'>
-                        <Segmented.Item className='!text-lg'>English</Segmented.Item>
-                    </Segmented>
-
+                 
                 </div>
                 <div>
                     <div className='mt-2 flex gap-2 font-[uthmani] text-[3rem] break-words text-right justify-end'>
@@ -79,7 +76,7 @@ const Quran = () => {
                         }
                         {/* {loading && parseInt(totalLetter) < 114 && <img className='w-1/12 mx-auto' src='/loading.svg' />} */}
                         {loading && parseInt(totalLetter) < 114 && <svg className='loadingSvg' viewBox="0 0 1320 300">
-                            <text x="50%" y="50%" dy=".35em" text-anchor="middle">
+                            <text x="50%" y="50%" dy=".35em" textAnchor="middle">
                                 {
                                     surahNameByNumber[parseInt(totalLetter) - 1] ? surahNameByNumber[parseInt(totalLetter) - 1] : "Surah not found"
                                 }

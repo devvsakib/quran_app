@@ -2,9 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-/* color: #646cff; */
-
-/* import font from public/Uthmani_new.ttf */
+:root{
+    --light: #FCF3E9;
+}
 
 @font-face {
     font-family: "uthmani";
@@ -12,7 +12,20 @@
 
 }
 
-
+body{
+    font-family: "raleway";
+    background-color: #FFFAF5;
+}
+.surahEngName{
+    font-family: "raleway";
+    font-size: 20px;
+    font-weight: 600
+}
+.surahEngMeaningName{
+    font-family: "raleway";
+    font-size: 20px;
+    font-weight: 400
+}
 .loadingSvg {
     font-family: 'Russo One', sans-serif;
 }
@@ -24,6 +37,18 @@
     stroke: #365fa0;
     font-size: 140px;
 }
+.surahLoadingSvg {
+    font-family: 'Russo One', sans-serif;
+}
+
+.surahLoadingSvg  text {
+    text-transform: uppercase;
+    animation: stroke 2s infinite alternate;
+    stroke-width: 2;
+    stroke: #365fa0;
+    font-size: 140px;
+}
+
 
 @keyframes stroke {
     0% {
@@ -52,4 +77,10 @@
         stroke-dasharray: 50% 0;
         stroke-width: 0;
     }
+}
+
+.ant-btn {
+    color: aliceblue;
+    background-color: #646cff;
+    transition: all 0.3s;
 }
