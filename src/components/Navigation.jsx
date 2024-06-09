@@ -1,8 +1,9 @@
 'use client'
-import { Menu, Layout } from 'antd';
+import { Menu, Layout, Button } from 'antd';
 import { Link } from 'react-router-dom';
 import { MoonOutlined, SunOutlined } from '@ant-design/icons';
 import { useTheme } from '../utilities/ThemeProvider';
+import { useEffect, useState } from 'react';
 
 const { Header } = Layout;
 
@@ -30,12 +31,32 @@ const Navigation = () => {
             link: '/biography'
         }
     ]
+
+    const [windowSize, setWindowSize] = useState(window.innerWidth);
+    const [showMenu, setShowMenu] = useState(false);
+
+    useEffect(() => {
+        window.addEventListener('resize', () => {
+            setWindowSize(window.innerWidth);
+        })
+    }, [window.innerWidth])
+
+    useEffect(() => {
+        if (windowSize > 768) {
+            setShowMenu(false);
+        }
+    }, [windowSize])
+
+
     return (
-        <header className='flex items-center justify-between max-w-[1280px] mx-auto bg-white px-5'>
+        <header className='flex items-center justify-between max-w-[1280px] mx-auto bg-white px-5 realtive'>
             <div>
                 <p className='font-semibold'>RenewImaan</p>
             </div>
-            <Menu mode="horizontal" style={{ border: "none" }}>
+            <Menu mode={windowSize > 768 ? 'horizontal' : 'inline'}
+                style={{ border: "none" }}
+                className={`text-sm ${windowSize <= 768 && showMenu ? 'block absolute top-8 right-0 z-40  border-4 border-red-400' : windowSize <= 768 ? 'hidden' : ''}`}
+            >
                 {
                     menu.map((item, idx) => (
                         <Menu.Item key={idx}>
@@ -44,11 +65,14 @@ const Navigation = () => {
                     ))
                 }
             </Menu>
-            {/* <div>
+            <div>
                 {
-                    theme === 'dark' ? <MoonOutlined onClick={toggleTheme} /> : <SunOutlined onClick={toggleTheme} />
+                    windowSize <= 768 && <Button type='primary' onClick={() => setShowMenu(!showMenu)}>Menu</Button>
                 }
-            </div> */}
+                {/* {
+                    theme === 'dark' ? <MoonOutlined onClick={toggleTheme} /> : <SunOutlined onClick={toggleTheme} />
+                } */}
+            </div>
         </header>
     )
 }
