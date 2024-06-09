@@ -5,6 +5,8 @@
             "id": "imamabuhanifa",
             "dateOfBirth": "80 AH",
             "dateOfDeath": "150 AH",
+            "nationality": "Iraqi",
+            "birth_location": "Kufa, Iraq",
             "biography": {
                 "early_life_and_education": "Imam Abu Hanifa was born in Kufa, Iraq, and received his early education in his hometown. He studied under various scholars and became known for his exceptional knowledge and piety.",
                 "teaching_and_scholarly_work": "Abu Hanifa established a renowned school of jurisprudence known as the Hanafi school. He authored several works on Islamic jurisprudence and principles of Islamic law.",
@@ -25,8 +27,10 @@
         {
             "name": "Imam Ahmad Ibn Hanbal",
             "id": "imamahmadibnhanbal",
-            "dateOfBirth": "780 CE",
-            "dateOfDeath": "855 CE",
+            "dateOfBirth": "164 AH",
+            "dateOfDeath": "241 AH",
+            "nationality": "Iraqi",
+            "birth_location": "Baghdad, Iraq",
             "biography": {
                 "early_life_and_education": "Imam Ahmad Ibn Hanbal was born in Baghdad, Iraq. He memorized the Quran at a young age and studied Hadith under various scholars. He traveled extensively in pursuit of knowledge, eventually settling in Baghdad, where he became a prominent jurist and scholar.",
                 "teaching_and_scholarly_work": "Ibn Hanbal's teachings emphasized the importance of Hadith and Sunnah in Islamic jurisprudence. He authored several books, including his famous Musnad, a compilation of authentic Hadith narrations.",
@@ -51,8 +55,10 @@
         {
             "name": "Imam Muhammad ibn Jarir al-Tabari",
             "id": "imamtabari",
-            "dateOfBirth": "839 CE",
-            "dateOfDeath": "923 CE",
+            "dateOfBirth": "223 AH",
+            "dateOfDeath": "311 AH",
+            "nationality": "Iranian",
+            "birth_location": "Amol, Iran",
             "biography": {
                 "early_life_and_education": "Al-Tabari was born in Amol, Iran, and received his early education in his hometown. He later traveled to Baghdad, where he studied Hadith, Tafsir, and Islamic jurisprudence under prominent scholars.",
                 "teaching_and_scholarly_work": "Al-Tabari's most famous work is his comprehensive commentary on the Quran, known as Tafsir al-Tabari. He also authored numerous books on history, Hadith, and Islamic jurisprudence, making significant contributions to Islamic scholarship.",
@@ -79,6 +85,8 @@
             "id": "imammalikibnanas",
             "dateOfBirth": "93 AH",
             "dateOfDeath": "179 AH",
+            "nationality": "Saudi Arabian",
+            "birth_location": "Medina, Saudi Arabia",
             "biography": {
                 "early_life_and_education": "Imam Malik ibn Anas was born in Medina, Saudi Arabia. He received his early education from his family and scholars in Medina, where he also memorized the Quran at a young age. He later traveled extensively to seek knowledge from renowned scholars across the Islamic world.",
                 "teaching_and_scholarly_work": "Imam Malik became known for his knowledge of Hadith and Islamic jurisprudence. He compiled the Muwatta, one of the earliest and most influential collections of Hadith and legal rulings. He also taught in the Prophet's Mosque in Medina and had numerous students from various regions.",
@@ -101,6 +109,8 @@
             "id": "imammuhammadalbukhari",
             "dateOfBirth": "194 AH",
             "dateOfDeath": "256 AH",
+            "nationality": "Uzbekistani",
+            "birth_location": "Bukhara, Uzbekistan",
             "biography": {
                 "early_life_and_education": "Imam Muhammad al-Bukhari was born in Bukhara, Uzbekistan. He began his pursuit of knowledge at an early age and memorized thousands of Hadith narrations. He traveled extensively to seek knowledge from scholars across the Islamic world, including Iraq, Syria, and the Hijaz.",
                 "teaching_and_scholarly_work": "Imam al-Bukhari compiled Sahih al-Bukhari, one of the most authentic and widely accepted collections of Hadith. He meticulously verified the authenticity of Hadith narrations and included only the most reliable reports in his compilation. He also taught Hadith and Islamic jurisprudence to students from various backgrounds.",
@@ -123,6 +133,8 @@
             "id": "imammuslimibnalhajjaj",
             "dateOfBirth": "202 AH",
             "dateOfDeath": "261 AH",
+            "nationality": "Iranian",
+            "birth_location": "Nishapur, Iran",
             "biography": {
                 "early_life_and_education": "Imam Muslim ibn al-Hajjaj was born in Nishapur, Iran. He began his Islamic studies at a young age and showed exceptional aptitude for memorization. He traveled extensively to study Hadith under prominent scholars, and his expertise in Hadith narrations became widely recognized.",
                 "teaching_and_scholarly_work": "Imam Muslim compiled Sahih Muslim, one of the most authentic collections of Hadith in Islam. He meticulously verified the authenticity of Hadith narrations and included only those that met the highest standards of reliability. He also taught Hadith to students from various regions.",
@@ -145,6 +157,8 @@
             "id": "imamabudawood",
             "dateOfBirth": "202 AH",
             "dateOfDeath": "275 AH",
+            "nationality": "Iranian",
+            "birth_location": "Sistan, Iran",
             "biography": {
                 "early_life_and_education": "Imam Abu Dawood was born in Sistan, Iran. He began his studies in Hadith and Islamic jurisprudence at an early age and later traveled extensively to seek knowledge from renowned scholars across the Islamic world.",
                 "teaching_and_scholarly_work": "Abu Dawood compiled Sunan Abu Dawood, one of the six canonical collections of Hadith in Sunni Islam. He meticulously collected and verified Hadith narrations, organizing them according to legal chapters. He also taught Hadith and Islamic law to students.",
@@ -167,6 +181,8 @@
             "id": "imamtirmidhi",
             "dateOfBirth": "209 AH",
             "dateOfDeath": "279 AH",
+            "nationality": "Uzbekistani",
+            "birth_location": "Tirmidh, Uzbekistan",
             "biography": {
                 "early_life_and_education": "Imam Tirmidhi was born in Tirmidh, present-day Uzbekistan. He began his studies in Hadith and Islamic jurisprudence at a young age and later traveled extensively to study under renowned scholars across the Islamic world.",
                 "teaching_and_scholarly_work": "Tirmidhi compiled Sunan al-Tirmidhi, one of the six canonical collections of Hadith in Sunni Islam. He meticulously verified the authenticity of Hadith narrations and included those that met the highest standards of reliability. He also taught Hadith and Islamic law to students.",
@@ -189,6 +205,8 @@
             "id": "imamibnmajah",
             "dateOfBirth": "209 AH",
             "dateOfDeath": "273 AH",
+            "nationality": "Iranian",
+            "birth_location": "Qazvin, Iran",
             "biography": {
                 "early_life_and_education": "Imam Ibn Majah was born in Qazvin, Iran. He began his studies in Hadith and Islamic jurisprudence at an early age and later traveled extensively to seek knowledge from renowned scholars across the Islamic world.",
                 "teaching_and_scholarly_work": "Ibn Majah compiled Sunan Ibn Majah, one of the six canonical collections of Hadith in Sunni Islam. He meticulously collected and verified Hadith narrations, organizing them according to legal chapters. He also taught Hadith and Islamic law to students.",
@@ -211,6 +229,8 @@
             "id": "sheikhnasirassadi",
             "dateOfBirth": "12-12-1889",
             "dateOfDeath": "13-10-1956",
+            "nationality": "Saudi Arabian",
+            "birth_location": "Buraidah, Saudi Arabia",
             "biography": {
                 "early_life_and_education": "Shaykh Abdul-Rahman ibn Nasir al-Sa’di was born in Buraidah, Saudi Arabia. He received his early education in his hometown and later pursued Islamic studies in Riyadh and Mecca. He studied under prominent scholars of his time, including Shaykh Muhammad ibn Ibrahim Al ash-Sheikh.",
                 "teaching_and_scholarly_work": "Al-Sa'di served as a judge and a teacher in various cities in Saudi Arabia, including Riyadh, Buraidah, and Mecca. He was known for his expertise in Islamic jurisprudence, Quranic exegesis, and theology. He authored several books and treatises on various subjects of Islamic sciences.",
@@ -239,6 +259,8 @@
             "id": "sheikhbinbaz",
             "dateOfBirth": "21-11-1912",
             "dateOfDeath": "13-05-1999",
+            "nationality": "Saudi Arabian",
+            "birth_location": "Riyadh, Saudi Arabia",
             "biography": {
                 "early_life_and_education": "Shaykh Abdl Aziz Ibn Baz was born in Riyadh, Saudi Arabia. He lost his eyesight at a young age but continued his education, memorizing the Quran and studying under prominent scholars such as Shaykh Muhammad ibn Ibrahim Al ash-Sheikh.",
                 "teaching_and_scholarly_work": "Ibn Baz served as a judge in Al-Kharj and later became the Grand Mufti of Saudi Arabia. He was also the President of the University of Medina and the Head of the Permanent Committee for Islamic Research and Ifta.",
@@ -261,6 +283,8 @@
             "id": "sheikhuthaymeen",
             "dateOfBirth": "09-03-1929",
             "dateOfDeath": "11-01-2001",
+            "nationality": "Saudi Arabian",
+            "birth_location": "Unayzah, Saudi Arabia",
             "biography": {
                 "early_life_and_education": "Shaykh Muhammad ibn al-Uthaymeen was born in Unayzah, Saudi Arabia. He memorized the Quran under the guidance of his maternal grandfather and studied with local scholars. He later studied under prominent scholars such as Shaykh Abdul-Rahman ibn Nasir al-Sa’di and Shaykh Muhammad Ash-Shanqeeti.",
                 "teaching_and_scholarly_work": "Shaykh al-Uthaymeen served as an imam and preacher at the Grand Mosque of Unayzah, taught at the Institute of Knowledge in Riyadh, and was a professor at the College of Sharia in Riyadh and Qassim University. His lessons and sermons were widely attended and broadcast.",
@@ -287,6 +311,8 @@
             "id": "sheikhalbani",
             "dateOfBirth": "16-06-1914",
             "dateOfDeath": "02-10-1999",
+            "nationality": "Albanian",
+            "birth_location": "Shkodër, Albania",
             "biography": {
                 "early_life_and_education": "Shaykh Mohammad Nasiruddin Albani was born in Shkodër, Albania. He moved to Damascus, Syria, where he began his religious studies, focusing on Hadith literature. He was largely self-taught and became one of the most prominent scholars in the field of Hadith.",
                 "teaching_and_scholarly_work": "Albani taught at various Islamic universities, including the Islamic University of Madinah. He was known for his rigorous approach to Hadith authentication and was a prolific author and lecturer.",

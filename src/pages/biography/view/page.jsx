@@ -41,6 +41,7 @@ const SheikhBio = () => {
                         />
                         <div className="font-[poppins]">
                             <div className="text-sm mt-2">
+                                <p>Nationality: {sheikh.nationality}</p>
                                 <p>Born: {sheikh.dateOfBirth}</p>
                                 <p>Died: {sheikh.dateOfDeath}</p>
                             </div>
