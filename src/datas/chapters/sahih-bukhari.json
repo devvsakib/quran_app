@@ -1,0 +1,794 @@
+[
+    {
+        "id": 1,
+        "chapterNumber": "1",
+        "chapterEnglish": "Revelation",
+        "chapterUrdu": "وحی کے بیان میں",
+        "chapterArabic": "كتاب بدء الوحى",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 2,
+        "chapterNumber": "2",
+        "chapterEnglish": "Belief",
+        "chapterUrdu": "ایمان کے بیان میں",
+        "chapterArabic": "كتاب الإيمان",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 3,
+        "chapterNumber": "3",
+        "chapterEnglish": "Knowledge",
+        "chapterUrdu": "علم کے بیان میں",
+        "chapterArabic": "كتاب العلم",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 4,
+        "chapterNumber": "4",
+        "chapterEnglish": "Ablutions (Wudu')",
+        "chapterUrdu": "وضو کے بیان میں",
+        "chapterArabic": "كتاب الوضوء",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 5,
+        "chapterNumber": "5",
+        "chapterEnglish": "Bathing (Ghusl)",
+        "chapterUrdu": "غسل کے احکام و مسائل",
+        "chapterArabic": "كتاب الغسل",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 6,
+        "chapterNumber": "6",
+        "chapterEnglish": "Menstrual Periods",
+        "chapterUrdu": "حیض کے احکام و مسائل",
+        "chapterArabic": "كتاب الحيض",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 7,
+        "chapterNumber": "7",
+        "chapterEnglish": "Rubbing hands and feet with dust (Tayammum)",
+        "chapterUrdu": "تیمم کے احکام و مسائل",
+        "chapterArabic": "كتاب التيمم",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 8,
+        "chapterNumber": "8",
+        "chapterEnglish": "Prayers (Salat)",
+        "chapterUrdu": "نماز کے احکام و مسائل",
+        "chapterArabic": "كتاب الصلاة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 9,
+        "chapterNumber": "9",
+        "chapterEnglish": "Times of the Prayers",
+        "chapterUrdu": "اوقات نماز کے بیان میں",
+        "chapterArabic": "كتاب مواقيت الصلاة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 10,
+        "chapterNumber": "10",
+        "chapterEnglish": "Call to Prayers (Adhaan)",
+        "chapterUrdu": "اذان کے مسائل کے بیان میں",
+        "chapterArabic": "كتاب الأذان",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 11,
+        "chapterNumber": "11",
+        "chapterEnglish": "Call to Prayers (Adhaan) (Sufa-Tu-Salat)",
+        "chapterUrdu": "اذان کے مسائل کے بیان میں (صفة الصلوة)",
+        "chapterArabic": "كتاب الأذان (صفة الصلوة)",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 12,
+        "chapterNumber": "12",
+        "chapterEnglish": "Friday Prayer",
+        "chapterUrdu": "جمعہ کے بیان میں",
+        "chapterArabic": "كتاب الجمعة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 13,
+        "chapterNumber": "13",
+        "chapterEnglish": "Fear Prayer",
+        "chapterUrdu": "نماز خوف کا بیان",
+        "chapterArabic": "كتاب صلاة الخوف",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 14,
+        "chapterNumber": "14",
+        "chapterEnglish": "The Two Festivals (Eids)",
+        "chapterUrdu": "عیدین کے مسائل کے بیان میں",
+        "chapterArabic": "كتاب العيدين",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 15,
+        "chapterNumber": "15",
+        "chapterEnglish": "Witr Prayer",
+        "chapterUrdu": "نماز وتر کے مسائل کا بیان",
+        "chapterArabic": "كتاب الوتر",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 16,
+        "chapterNumber": "16",
+        "chapterEnglish": "Invoking Allah for Rain (Istisqaa)",
+        "chapterUrdu": "استسقاء یعنی پانی مانگنے کا بیان",
+        "chapterArabic": "كتاب الاستسقاء",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 17,
+        "chapterNumber": "17",
+        "chapterEnglish": "Eclipses",
+        "chapterUrdu": "سورج گہن کے متعلق بیان",
+        "chapterArabic": "كتاب الكسوف",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 18,
+        "chapterNumber": "18",
+        "chapterEnglish": "Prostration During Recital of Qur'an",
+        "chapterUrdu": "سجود قرآن کے مسائل",
+        "chapterArabic": "كتاب سجود القرآن",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 19,
+        "chapterNumber": "19",
+        "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+        "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+        "chapterArabic": "كتاب تقصير الصلاة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 20,
+        "chapterNumber": "20",
+        "chapterEnglish": "Prayer at Night (Tahajjud)",
+        "chapterUrdu": "تہجد کا بیان",
+        "chapterArabic": "كتاب التهجد",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 21,
+        "chapterNumber": "21",
+        "chapterEnglish": "Virtues of Prayer at Masjid Makkah and Madinah",
+        "chapterUrdu": "مکہ و مدینہ میں نماز کی فضیلت",
+        "chapterArabic": "كتاب فضل الصلاة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 22,
+        "chapterNumber": "22",
+        "chapterEnglish": "Actions while Praying",
+        "chapterUrdu": "نماز کے کام کے بارے میں",
+        "chapterArabic": "كتاب العمل في الصلاة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 23,
+        "chapterNumber": "23",
+        "chapterEnglish": "Forgetfulness in Prayer",
+        "chapterUrdu": "سجدہ سھو کا بیان",
+        "chapterArabic": "كتاب السهو",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 24,
+        "chapterNumber": "24",
+        "chapterEnglish": "Funerals (Al-Janaa'iz)",
+        "chapterUrdu": "جنازے کے احکام و مسائل",
+        "chapterArabic": "كتاب الجنائز",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 25,
+        "chapterNumber": "25",
+        "chapterEnglish": "Obligatory Charity Tax (Zakat)",
+        "chapterUrdu": "زکوۃ کے مسائل کا بیان",
+        "chapterArabic": "كتاب الزكاة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 26,
+        "chapterNumber": "26",
+        "chapterEnglish": "Hajj (Pilgrimage)",
+        "chapterUrdu": "حج کے مسائل کا بیان",
+        "chapterArabic": "كتاب الحج",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 27,
+        "chapterNumber": "27",
+        "chapterEnglish": "`Umrah (Minor pilgrimage)",
+        "chapterUrdu": "عمرہ کے مسائل کا بیان",
+        "chapterArabic": "كتاب العمرة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 28,
+        "chapterNumber": "28",
+        "chapterEnglish": "Pilgrims Prevented from Completing the Pilgrimage",
+        "chapterUrdu": "محرم کے روکے جانے اور شکار کا بدلہ دینے کے بیان میں",
+        "chapterArabic": "كتاب المحصر",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 29,
+        "chapterNumber": "29",
+        "chapterEnglish": "Penalty of Hunting while on Pilgrimage",
+        "chapterUrdu": "شکار کے بدلے کا بیان",
+        "chapterArabic": "كتاب جزاء الصيد",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 30,
+        "chapterNumber": "30",
+        "chapterEnglish": "Virtues of Madinah",
+        "chapterUrdu": "مدینہ کے فضائل کا بیان",
+        "chapterArabic": "كتاب فضائل المدينة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 31,
+        "chapterNumber": "31",
+        "chapterEnglish": "Fasting",
+        "chapterUrdu": "روزے کے مسائل کا بیان",
+        "chapterArabic": "كتاب الصوم",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 32,
+        "chapterNumber": "32",
+        "chapterEnglish": "Praying at Night in Ramadaan (Taraweeh)",
+        "chapterUrdu": "نماز تراویح پڑھنے کا بیان",
+        "chapterArabic": "كتاب صلاة التراويح",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 33,
+        "chapterNumber": "33",
+        "chapterEnglish": "Virtues of the Night of Qadr",
+        "chapterUrdu": "لیلۃ القدر کا بیان",
+        "chapterArabic": "كتاب فضل ليلة القدر",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 34,
+        "chapterNumber": "34",
+        "chapterEnglish": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
+        "chapterUrdu": "اعتکاف کے مسائل کا بیان",
+        "chapterArabic": "كتاب الاعتكاف",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 35,
+        "chapterNumber": "35",
+        "chapterEnglish": "Sales and Trade",
+        "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+        "chapterArabic": "كتاب البيوع",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 36,
+        "chapterNumber": "36",
+        "chapterEnglish": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
+        "chapterUrdu": "بیع سلم کے بیان میں",
+        "chapterArabic": "كتاب السلم",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 37,
+        "chapterNumber": "37",
+        "chapterEnglish": "Shuf'a",
+        "chapterUrdu": "شفعہ کے بیان میں",
+        "chapterArabic": "كتاب الشفعة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 38,
+        "chapterNumber": "38",
+        "chapterEnglish": "Hiring",
+        "chapterUrdu": "اجرت کے مسائل کا بیان",
+        "chapterArabic": "كتاب الإجارة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 39,
+        "chapterNumber": "39",
+        "chapterEnglish": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
+        "chapterUrdu": "حوالہ کے مسائل کا بیان",
+        "chapterArabic": "كتاب الحوالات",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 40,
+        "chapterNumber": "40",
+        "chapterEnglish": "Kafalah",
+        "chapterUrdu": "کفالت کے مسائل کا بیان",
+        "chapterArabic": "كتاب الكفالة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 41,
+        "chapterNumber": "41",
+        "chapterEnglish": "Representation, Authorization, Business by Proxy",
+        "chapterUrdu": "وکالت کے مسائل کا بیان",
+        "chapterArabic": "كتاب الوكالة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 42,
+        "chapterNumber": "42",
+        "chapterEnglish": "Agriculture",
+        "chapterUrdu": "کھیتی باڑی اور بٹائی کا بیان",
+        "chapterArabic": "كتاب المزارعة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 43,
+        "chapterNumber": "43",
+        "chapterEnglish": "Distribution of Water",
+        "chapterUrdu": "مساقات کے بیان میں",
+        "chapterArabic": "كتاب المساقاة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 44,
+        "chapterNumber": "44",
+        "chapterEnglish": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
+        "chapterUrdu": "قرض لینے ادا کرنے حجر اور مفلسی منظور کرنے کے بیان میں",
+        "chapterArabic": "كتاب الاستقراض",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 45,
+        "chapterNumber": "45",
+        "chapterEnglish": "Khusoomaat",
+        "chapterUrdu": "نالشوں اور جھگڑوں کے بیان میں",
+        "chapterArabic": "كتاب الخصومات",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 46,
+        "chapterNumber": "46",
+        "chapterEnglish": "Lost Things Picked up by Someone (Luqatah)",
+        "chapterUrdu": "لقطہ یعنی گری پڑی چیزوں کے بارے میں احکام",
+        "chapterArabic": "كتاب اللقطة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 47,
+        "chapterNumber": "47",
+        "chapterEnglish": "Oppressions",
+        "chapterUrdu": "ظلم اور مال غصب کرنے کے بیان میں",
+        "chapterArabic": "کتاب المظالم والغصب",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 48,
+        "chapterNumber": "48",
+        "chapterEnglish": "Partnership",
+        "chapterUrdu": "شراکت کے مسائل کے بیان میں",
+        "chapterArabic": "كتاب الشركة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 49,
+        "chapterNumber": "49",
+        "chapterEnglish": "Mortgaging",
+        "chapterUrdu": "رہن کے بیان میں",
+        "chapterArabic": "كتاب الرهن",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 50,
+        "chapterNumber": "50",
+        "chapterEnglish": "Manumission of Slaves",
+        "chapterUrdu": "غلاموں کی آزادی کے بیان میں",
+        "chapterArabic": "كتاب العتق",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 51,
+        "chapterNumber": "51",
+        "chapterEnglish": "Makaatib",
+        "chapterUrdu": "مکاتب کے مسائل کا بیان",
+        "chapterArabic": "كتاب المكاتب",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 52,
+        "chapterNumber": "52",
+        "chapterEnglish": "Gifts",
+        "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+        "chapterArabic": "كتاب الهبة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 53,
+        "chapterNumber": "53",
+        "chapterEnglish": "Witnesses",
+        "chapterUrdu": "گواہوں کے متعلق مسائل کا بیان",
+        "chapterArabic": "كتاب الشهادات",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 54,
+        "chapterNumber": "54",
+        "chapterEnglish": "Peacemaking",
+        "chapterUrdu": "صلح کے مسائل کا بیان",
+        "chapterArabic": "كتاب الصلح",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 55,
+        "chapterNumber": "55",
+        "chapterEnglish": "Conditions",
+        "chapterUrdu": "شرائط کے مسائل کا بیان",
+        "chapterArabic": "كتاب الشروط",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 56,
+        "chapterNumber": "56",
+        "chapterEnglish": "Wills and Testaments (Wasaayaa)",
+        "chapterUrdu": "وصیتوں کے مسائل کا بیان",
+        "chapterArabic": "كتاب الوصايا",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 57,
+        "chapterNumber": "57",
+        "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+        "chapterUrdu": "جہاد کا بیان",
+        "chapterArabic": "كتاب الجهاد والسير",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 58,
+        "chapterNumber": "58",
+        "chapterEnglish": "One-fifth of Booty to the Cause of Allah (Khumus)",
+        "chapterUrdu": "خمس کے فرض ہونے کا بیان",
+        "chapterArabic": "كتاب فرض الخمس",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 59,
+        "chapterNumber": "59",
+        "chapterEnglish": "Jizyah and Mawaada'ah",
+        "chapterUrdu": "جزیہ وغیرہ کے بیان میں",
+        "chapterArabic": "كتاب کتاب الجزیہ والموادعہ",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 60,
+        "chapterNumber": "60",
+        "chapterEnglish": "Beginning of Creation",
+        "chapterUrdu": "اس بیان میں کہ مخلوق کی پیدائش کیونکر شروع ہوئی",
+        "chapterArabic": "كتاب بدء الخلق",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 61,
+        "chapterNumber": "61",
+        "chapterEnglish": "Prophets",
+        "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+        "chapterArabic": "كتاب أحاديث الأنبياء",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 62,
+        "chapterNumber": "62",
+        "chapterEnglish": "Virtues and Merits of the Prophet (PBUH) and his Companions",
+        "chapterUrdu": "فضیلتوں کے بیان میں",
+        "chapterArabic": "كتاب المناقب",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 63,
+        "chapterNumber": "63",
+        "chapterEnglish": "Companions of the Prophet",
+        "chapterUrdu": "نبی صلی اللہ علیہ وسلم کے اصحاب کی فضیلت",
+        "chapterArabic": "كتاب فضائل الصحابة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 64,
+        "chapterNumber": "64",
+        "chapterEnglish": "Merits of the Helpers in Madinah (Ansaar)",
+        "chapterUrdu": "انصار کے مناقب",
+        "chapterArabic": "كتاب مناقب الأنصار",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 65,
+        "chapterNumber": "65",
+        "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+        "chapterUrdu": "غزوات کے بیان میں",
+        "chapterArabic": "كتاب المغازي",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 66,
+        "chapterNumber": "66",
+        "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+        "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+        "chapterArabic": "كتاب التفسير",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 67,
+        "chapterNumber": "67",
+        "chapterEnglish": "Virtues of the Qur'an",
+        "chapterUrdu": "قرآن کے فضائل کا بیان",
+        "chapterArabic": "كتاب فضائل القرآن",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 68,
+        "chapterNumber": "68",
+        "chapterEnglish": "Wedlock, Marriage (Nikaah)",
+        "chapterUrdu": "نکاح کے مسائل کا بیان",
+        "chapterArabic": "كتاب النكاح",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 69,
+        "chapterNumber": "69",
+        "chapterEnglish": "Divorce",
+        "chapterUrdu": "طلاق کے مسائل کا بیان",
+        "chapterArabic": "كتاب الطلاق",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 70,
+        "chapterNumber": "70",
+        "chapterEnglish": "Supporting the Family",
+        "chapterUrdu": "خرچہ دینے کے بیان میں",
+        "chapterArabic": "كتاب النفقات",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 71,
+        "chapterNumber": "71",
+        "chapterEnglish": "Food, Meals",
+        "chapterUrdu": "کھانوں کے بیان میں",
+        "chapterArabic": "كتاب الأطعمة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 72,
+        "chapterNumber": "72",
+        "chapterEnglish": "Sacrifice on Occasion of Birth (`Aqiqa)",
+        "chapterUrdu": "عقیقہ کے مسائل کا بیان",
+        "chapterArabic": "كتاب العقيقة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 73,
+        "chapterNumber": "73",
+        "chapterEnglish": "Hunting, Slaughtering",
+        "chapterUrdu": "ذبیح اور شکار کے بیان میں",
+        "chapterArabic": "كتاب الذبائح والصيد",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 74,
+        "chapterNumber": "74",
+        "chapterEnglish": "Al-Adha Festival Sacrifice (Adaahi)",
+        "chapterUrdu": "قربانی کے مسائل کا بیان",
+        "chapterArabic": "كتاب الأضاحي",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 75,
+        "chapterNumber": "75",
+        "chapterEnglish": "Drinks",
+        "chapterUrdu": "مشروبات کے بیان میں",
+        "chapterArabic": "كتاب الأشربة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 76,
+        "chapterNumber": "76",
+        "chapterEnglish": "Patients",
+        "chapterUrdu": "امراض اور ان کے علاج کے بیان میں",
+        "chapterArabic": "كتاب المرضى",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 77,
+        "chapterNumber": "77",
+        "chapterEnglish": "Medicine",
+        "chapterUrdu": "دوا اور علاج کے بیان میں",
+        "chapterArabic": "كتاب الطب",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 78,
+        "chapterNumber": "78",
+        "chapterEnglish": "Dress",
+        "chapterUrdu": "لباس کے بیان میں",
+        "chapterArabic": "كتاب اللباس",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 79,
+        "chapterNumber": "79",
+        "chapterEnglish": "Good Manners and Form (Al-Adab)",
+        "chapterUrdu": "اخلاق کے بیان میں",
+        "chapterArabic": "كتاب الأدب",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 80,
+        "chapterNumber": "80",
+        "chapterEnglish": "Asking Permission",
+        "chapterUrdu": "اجازت لینے کے بیان میں",
+        "chapterArabic": "كتاب الاستئذان",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 81,
+        "chapterNumber": "81",
+        "chapterEnglish": "Invocations",
+        "chapterUrdu": "دعاؤں کے بیان میں",
+        "chapterArabic": "كتاب الدعوات",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 82,
+        "chapterNumber": "82",
+        "chapterEnglish": "To make the Heart Tender (Ar-Riqaq)",
+        "chapterUrdu": "دل کو نرم کرنے والی باتوں کے بیان میں",
+        "chapterArabic": "كتاب الرقاق",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 83,
+        "chapterNumber": "83",
+        "chapterEnglish": "Divine Will (Al-Qadar)",
+        "chapterUrdu": "تقدیر کے بیان میں",
+        "chapterArabic": "كتاب القدر",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 84,
+        "chapterNumber": "84",
+        "chapterEnglish": "Oaths and Vows",
+        "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+        "chapterArabic": "كتاب الأيمان والنذور",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 85,
+        "chapterNumber": "85",
+        "chapterEnglish": "Expiation for Unfulfilled Oaths",
+        "chapterUrdu": "قسموں کے کفارہ کے بیان میں",
+        "chapterArabic": "كتاب كفارات الأيمان",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 86,
+        "chapterNumber": "86",
+        "chapterEnglish": "Laws of Inheritance (Al-Faraa'id)",
+        "chapterUrdu": "فرائض یعنی ترکہ کے حصوں کے بیان میں",
+        "chapterArabic": "كتاب الفرائض",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 87,
+        "chapterNumber": "87",
+        "chapterEnglish": "Limits and Punishments set by Allah (Hudood)",
+        "chapterUrdu": "حد اور سزاؤں کے بیان میں",
+        "chapterArabic": "كتاب الحدود",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 88,
+        "chapterNumber": "88",
+        "chapterEnglish": "Al-Maharbeen",
+        "chapterUrdu": "ان کفار و مرتدوں کے احکام میں جو مسلمانوں سے لڑتے ہیں",
+        "chapterArabic": "كتاب المحاربين",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 89,
+        "chapterNumber": "89",
+        "chapterEnglish": "Blood Money (Ad-Diyat)",
+        "chapterUrdu": "دیتوں کے بیان میں",
+        "chapterArabic": "كتاب الديات",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 90,
+        "chapterNumber": "90",
+        "chapterEnglish": "Apostates",
+        "chapterUrdu": "باغیوں اور مرتدوں سے توبہ کرانے کا بیان",
+        "chapterArabic": "كتاب استتابة المرتدين",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 91,
+        "chapterNumber": "91",
+        "chapterEnglish": "(Statements made under) Coercion",
+        "chapterUrdu": "زبردستی کام کرانے کے بیان میں",
+        "chapterArabic": "كتاب الإكراه",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 92,
+        "chapterNumber": "92",
+        "chapterEnglish": "Tricks",
+        "chapterUrdu": "شرعی حیلوں کے بیان میں",
+        "chapterArabic": "كتاب الحيل",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 93,
+        "chapterNumber": "93",
+        "chapterEnglish": "Interpretation of Dreams",
+        "chapterUrdu": "خوابوں کی تعبیر کے بیان میں",
+        "chapterArabic": "كتاب التعبير",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 94,
+        "chapterNumber": "94",
+        "chapterEnglish": "Afflictions and the End of the World",
+        "chapterUrdu": "فتنوں کے بیان میں",
+        "chapterArabic": "كتاب الفتن",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 95,
+        "chapterNumber": "95",
+        "chapterEnglish": "Judgments (Ahkaam)",
+        "chapterUrdu": "حکومت اور قضا کے بیان میں",
+        "chapterArabic": "كتاب الأحكام",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 96,
+        "chapterNumber": "96",
+        "chapterEnglish": "Wishes",
+        "chapterUrdu": "نیک ترین آرزؤں کے جائز ہونے کے بیان میں",
+        "chapterArabic": "كتاب التمني",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 97,
+        "chapterNumber": "97",
+        "chapterEnglish": "Accepting Information Given by a Truthful Person",
+        "chapterUrdu": "خبر واحد کے بیان میں",
+        "chapterArabic": "كتاب أخبار الآحاد",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 98,
+        "chapterNumber": "98",
+        "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+        "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+        "chapterArabic": "كتاب الاعتصام بال والسنة",
+        "bookSlug": "sahih-bukhari"
+    },
+    {
+        "id": 99,
+        "chapterNumber": "99",
+        "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+        "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+        "chapterArabic": "كتاب التوحيد",
+        "bookSlug": "sahih-bukhari"
+    }
+]

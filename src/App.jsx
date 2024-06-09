@@ -1,21 +1,17 @@
-import './App.css'
-import { Route, Routes } from 'react-router-dom'
-import Header from './components/Header'
-import toast, { Toaster } from 'react-hot-toast'
-import Quran from './pages/Quran'
-import './App.css'
-import Test from './pages/Test'
-import SurahPage from './pages/SurahPage'
-import Hadith from './pages/Hadith'
+import { Toaster } from 'react-hot-toast'
 import { ConfigProvider } from 'antd'
+import Navigation from './components/Navigation'
+import Router from './routes/Routes'
 
 function App() {
     return (
-        <div className="App">
-            <Header toast={toast} />
+        <div>
+            <Navigation />
+            {/* <Header toast={toast} /> */}
             <Toaster />
             <ConfigProvider
                 theme={{
+                    token: 'var(--color-primary)',
                     components: {
                         Segmented: {
                             itemColor: '#fff',
@@ -25,16 +21,22 @@ function App() {
                             trackBg: '#795547',
                             itemSelectedBg: '#CA9B79',
                             itemActiveBg: '#795547'
-                        }
+                        },
+                        Table: {
+                            headerBg: 'var(--color-secondary)',
+                            headerColor: '#fff',
+                            headerSortHoverBg: 'var(--color-tertiary)',
+                            headerSortActiveBg: 'var(--color-tertiary)',
+                            bodyBg: '#fff',
+                            bodyColor: '#000',
+                            colorFillQuaternary: '#000',
+                            colorIcon: '#000',
+                            colorPrimary: 'var(--color-primary)',
+                        },
                     }
                 }}
             >
-                <Routes>
-                    <Route path="/" element={<Quran />} />
-                    <Route path="test" element={<Test />} />
-                    <Route path="hadith" element={<Hadith />} />
-                    <Route path="quran/:surahNumber" element={<SurahPage />} />
-                </Routes>
+                <Router />
             </ConfigProvider>
         </div>
     )

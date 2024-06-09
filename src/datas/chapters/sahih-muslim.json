@@ -1,0 +1,450 @@
+[
+    {
+        "id": 100,
+        "chapterNumber": "0",
+        "chapterEnglish": "Introduction",
+        "chapterUrdu": "مقدمہ",
+        "chapterArabic": "كتاب مُقَدِّمَةٌ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 101,
+        "chapterNumber": "1",
+        "chapterEnglish": "The Book of Faith",
+        "chapterUrdu": "ایمان کا بیان",
+        "chapterArabic": "كتاب الْإِيمَانِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 102,
+        "chapterNumber": "2",
+        "chapterEnglish": "The Book of Purification",
+        "chapterUrdu": "پاکی کا بیان",
+        "chapterArabic": "كتاب الطَّهَارَةِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 103,
+        "chapterNumber": "3",
+        "chapterEnglish": "The Book of Menstruation",
+        "chapterUrdu": "حیض کا معنی و مفہوم",
+        "chapterArabic": "كتاب الْحَيْضِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 104,
+        "chapterNumber": "4",
+        "chapterEnglish": "The Book of Prayers",
+        "chapterUrdu": "نماز کے احکام و مسائل",
+        "chapterArabic": "كتاب الصَّلَاةِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 105,
+        "chapterNumber": "5",
+        "chapterEnglish": "The Book of Mosques and Places of Prayer",
+        "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+        "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 106,
+        "chapterNumber": "6",
+        "chapterEnglish": "The Book of Prayer - Travellers",
+        "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+        "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 107,
+        "chapterNumber": "7",
+        "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+        "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+        "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 108,
+        "chapterNumber": "8",
+        "chapterEnglish": "The Book of Prayer - Friday",
+        "chapterUrdu": "جمعہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الْجُمُعَةِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 109,
+        "chapterNumber": "9",
+        "chapterEnglish": "The Book of Prayer - Two Eids",
+        "chapterUrdu": "نماز عیدین کے احکام و مسائل",
+        "chapterArabic": "كتاب صَلَاةِ الْعِيدَيْنِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 110,
+        "chapterNumber": "10",
+        "chapterEnglish": "The Book of Prayer - Rain",
+        "chapterUrdu": "بارش طلب کرنے کی نماز",
+        "chapterArabic": "كتاب صَلَاةِ الِاسْتِسْقَاءِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 111,
+        "chapterNumber": "11",
+        "chapterEnglish": "The Book of Prayer - Eclipses",
+        "chapterUrdu": "سورج اور چاند گرہن کے احکام",
+        "chapterArabic": "كتاب الْكُسُوفِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 112,
+        "chapterNumber": "12",
+        "chapterEnglish": "The Book of Prayer - Funerals",
+        "chapterUrdu": "جنازے کے احکام و مسائل",
+        "chapterArabic": "كتاب الْجَنَائِزِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 113,
+        "chapterNumber": "13",
+        "chapterEnglish": "The Book of Zakat",
+        "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+        "chapterArabic": "كتاب الزَّكَاةِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 114,
+        "chapterNumber": "14",
+        "chapterEnglish": "The Book of Fasting",
+        "chapterUrdu": "روزے کے احکام و مسائل",
+        "chapterArabic": "كتاب الصِّيَامِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 115,
+        "chapterNumber": "15",
+        "chapterEnglish": "The Book of I'tikaaf",
+        "chapterUrdu": "اعتکاف کے احکام و مسائل",
+        "chapterArabic": "كتاب الِاعْتِكَافِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 116,
+        "chapterNumber": "16",
+        "chapterEnglish": "The Book of Pilgrimage",
+        "chapterUrdu": "حج کے احکام و مسائل",
+        "chapterArabic": "كتاب الْحَجِّ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 117,
+        "chapterNumber": "17",
+        "chapterEnglish": "The Book of Marriage",
+        "chapterUrdu": "نکاح کے احکام و مسائل",
+        "chapterArabic": "كتاب النِّكَاحِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 118,
+        "chapterNumber": "18",
+        "chapterEnglish": "The Book of Suckling",
+        "chapterUrdu": "رضاعت کے احکام و مسائل",
+        "chapterArabic": "كتاب الرِّضَاعِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 119,
+        "chapterNumber": "19",
+        "chapterEnglish": "The Book of Divorce",
+        "chapterUrdu": "طلاق کے احکام و مسائل",
+        "chapterArabic": "كتاب الطَّلَاقِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 120,
+        "chapterNumber": "20",
+        "chapterEnglish": "The Book of Invoking Curses",
+        "chapterUrdu": "لعان کا بیان",
+        "chapterArabic": "كتاب اللِّعَانِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 121,
+        "chapterNumber": "21",
+        "chapterEnglish": "The Book of Emancipating Slaves",
+        "chapterUrdu": "غلامی سے آزادی کا بیان",
+        "chapterArabic": "كتاب الْعِتْقِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 122,
+        "chapterNumber": "22",
+        "chapterEnglish": "The Book of Transactions",
+        "chapterUrdu": "لین دین کے مسائل",
+        "chapterArabic": "كتاب الْبُيُوعِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 123,
+        "chapterNumber": "23",
+        "chapterEnglish": "The Book Of Musaqah",
+        "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+        "chapterArabic": "كتاب الْمُسَاقَاةِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 124,
+        "chapterNumber": "24",
+        "chapterEnglish": "The Book Of The Rules Of Inheritance",
+        "chapterUrdu": "وراث کے مقررہ حصوں کا بیان",
+        "chapterArabic": "كتاب الْفَرَائِضِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 125,
+        "chapterNumber": "25",
+        "chapterEnglish": "The Book Of Gifts",
+        "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+        "chapterArabic": "كتاب الْهِبَاتِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 126,
+        "chapterNumber": "26",
+        "chapterEnglish": "The Book Of Wills",
+        "chapterUrdu": "وصیت کے احکام و مسائل",
+        "chapterArabic": "كتاب الْوَصِيَّةِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 127,
+        "chapterNumber": "27",
+        "chapterEnglish": "The Book Of Vows",
+        "chapterUrdu": "نذر(منت ماننے )کے احکام و مسائل",
+        "chapterArabic": "كتاب النَّذْرِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 128,
+        "chapterNumber": "28",
+        "chapterEnglish": "The Book Of Oaths",
+        "chapterUrdu": "قسموں کا بیان",
+        "chapterArabic": "كتاب الْأَيْمَانِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 129,
+        "chapterNumber": "29",
+        "chapterEnglish": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
+        "chapterUrdu": "قتل کی ذمہ داری کے تعین کے لیے اجتماعی قسموں، لوٹ مار کرنے والوں (کی سزا)، قصاص اور دیت کے مسائل",
+        "chapterArabic": "كتاب الْقَسَامَةِ وَالْمُحَارِبِينَ وَالْقِصَاصِ وَالدِّيَاتِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 130,
+        "chapterNumber": "30",
+        "chapterEnglish": "The Book Of Legal Punishments",
+        "chapterUrdu": "حدود کا بیان",
+        "chapterArabic": "كتاب الْحُدُودِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 131,
+        "chapterNumber": "31",
+        "chapterEnglish": "The Book Of Judicial Decisions",
+        "chapterUrdu": "جھگڑوں میں فیصلے کرنے کے طریقے اور آداب",
+        "chapterArabic": "كتاب الْأَقْضِيَةِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 132,
+        "chapterNumber": "32",
+        "chapterEnglish": "The Book Of Lost Property",
+        "chapterUrdu": "کسی کو ملنے والی چیز جس کے مالک کا پتہ نہ ہو",
+        "chapterArabic": "كتاب اللُّقَطَةِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 133,
+        "chapterNumber": "33",
+        "chapterEnglish": "The Book Of Jihad And Expeditions",
+        "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+        "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 134,
+        "chapterNumber": "34",
+        "chapterEnglish": "The Book of Government",
+        "chapterUrdu": "امور حکومت کا بیان",
+        "chapterArabic": "كتاب الْإِمَارَةِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 135,
+        "chapterNumber": "35",
+        "chapterEnglish": "The Book of Hunting , Slaughter and what may be Eaten",
+        "chapterUrdu": "شکار کرنے، ذبح کیے جانے والے اور ان جانوروں کا بیان جن کا گوشت کھایا جا سکتا ہے",
+        "chapterArabic": "كتاب الصَّيْدِ وَالذَّبَائِحِ وَمَا يُؤْكَلُ مِنْ الْحَيَوَانِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 136,
+        "chapterNumber": "36",
+        "chapterEnglish": "The Book of Sacrifices",
+        "chapterUrdu": "قربانی کے احکام و مسائل",
+        "chapterArabic": "كتاب الْأَضَاحِيِّ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 137,
+        "chapterNumber": "37",
+        "chapterEnglish": "The Book of Drink",
+        "chapterUrdu": "مشروبات کا بیان",
+        "chapterArabic": "كتاب الْأَشْرِبَةِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 138,
+        "chapterNumber": "38",
+        "chapterEnglish": "The Book of Clothes and Adornment",
+        "chapterUrdu": "لباس اور زینت کے احکام",
+        "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 139,
+        "chapterNumber": "39",
+        "chapterEnglish": "The Book of Manners and Etiquette",
+        "chapterUrdu": "معاشرتی آداب کا بیان",
+        "chapterArabic": "كتاب الْآدَابِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 140,
+        "chapterNumber": "40",
+        "chapterEnglish": "The Book of Greetings",
+        "chapterUrdu": "سلامتی اور صحت کا بیان",
+        "chapterArabic": "كتاب السَّلَامِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 141,
+        "chapterNumber": "41",
+        "chapterEnglish": "The Book Concerning the use of Correct Words",
+        "chapterUrdu": "ادب اور دوسری باتوں (عقیدے اور انسانی رویوں) سے متعلق الفاظ",
+        "chapterArabic": "كتاب الْأَلْفَاظِ مِنْ الْأَدَبِ وَغَيْرِهَا",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 142,
+        "chapterNumber": "42",
+        "chapterEnglish": "The Book of Poetry",
+        "chapterUrdu": "شعر و شاعری کا بیان",
+        "chapterArabic": "كتاب الشِّعْرِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 143,
+        "chapterNumber": "43",
+        "chapterEnglish": "The Book of Dreams",
+        "chapterUrdu": "خواب کا بیان",
+        "chapterArabic": "كتاب الرُّؤْيَا",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 144,
+        "chapterNumber": "44",
+        "chapterEnglish": "The Book of Virtues",
+        "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+        "chapterArabic": "كتاب الْفَضَائِلِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 145,
+        "chapterNumber": "45",
+        "chapterEnglish": "The Book of the Merits of the Companions",
+        "chapterUrdu": "صحابہ کرام رضی اللہ عنھم کے فضائل و مناقب",
+        "chapterArabic": "كتاب فَضَائِلِ الصَّحَابَةِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 146,
+        "chapterNumber": "46",
+        "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+        "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+        "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 147,
+        "chapterNumber": "47",
+        "chapterEnglish": "The Book of Destiny",
+        "chapterUrdu": "تقدیر کا بیان",
+        "chapterArabic": "كتاب الْقَدَرِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 148,
+        "chapterNumber": "48",
+        "chapterEnglish": "The Book of Knowledge",
+        "chapterUrdu": "علم کا بیان",
+        "chapterArabic": "كتاب الْعِلْمِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 149,
+        "chapterNumber": "49",
+        "chapterEnglish": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness",
+        "chapterUrdu": "ذکر الٰہی‘دعا ‘توبہ اور استغفار",
+        "chapterArabic": "كتاب الذِّكْرِ وَالدُّعَاءِ وَالتَّوْبَةِ وَالِاسْتِغْفَارِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 150,
+        "chapterNumber": "50",
+        "chapterEnglish": "The Book of Repentance",
+        "chapterUrdu": "توبہ کا بیان",
+        "chapterArabic": "كتاب التَّوْبَةِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 151,
+        "chapterNumber": "51",
+        "chapterEnglish": "Characteristics of The Hypocrites And Rulings Concerning Them",
+        "chapterUrdu": "منافقین کی صفات اور ان کے بارے میں احکام",
+        "chapterArabic": "كتاب صِفَاتِ الْمُنَافِقِينَ وَأَحْكَامِهِمْ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 152,
+        "chapterNumber": "52",
+        "chapterEnglish": "The Book of Paradise, its Description, its Bounties and its Inhabitants",
+        "chapterUrdu": "جنت اس کی نعمتیں اور اہل جنت",
+        "chapterArabic": "كتاب الْجَنَّةِ وَصِفَةِ نَعِيمِهَا وَأَهْلِهَا",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 153,
+        "chapterNumber": "53",
+        "chapterEnglish": "The Book of Tribulations and Portents of the Last Hour",
+        "chapterUrdu": "فتنے اور علامات قیامت",
+        "chapterArabic": "كتاب الْفِتَنِ وَأَشْرَاطِ السَّاعَةِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 154,
+        "chapterNumber": "54",
+        "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+        "chapterUrdu": "زہد اور رقت انگیز باتیں",
+        "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+        "bookSlug": "sahih-muslim"
+    },
+    {
+        "id": 155,
+        "chapterNumber": "55",
+        "chapterEnglish": "The Book of Commentary on the Qur'an",
+        "chapterUrdu": "قرآن مجید کی تفسیر کا بیان",
+        "chapterArabic": "كتاب التَّفْسِيرِ",
+        "bookSlug": "sahih-muslim"
+    }
+]

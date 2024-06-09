@@ -1,0 +1,346 @@
+[
+    {
+        "id": 206,
+        "chapterNumber": "1",
+        "chapterEnglish": "Purification (Kitab Al-Taharah)",
+        "chapterUrdu": "طہارت کے مسائل",
+        "chapterArabic": "كتاب الطهارة",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 207,
+        "chapterNumber": "2",
+        "chapterEnglish": "Prayer (Kitab Al-Salat)",
+        "chapterUrdu": "نماز کے احکام و مسائل",
+        "chapterArabic": "كتاب الصلاة",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 208,
+        "chapterNumber": "3",
+        "chapterEnglish": "The Book Of The Prayer For Rain (Kitab al-Istisqa')",
+        "chapterUrdu": "نماز استسقاء کے احکام ومسائل",
+        "chapterArabic": "كتاب الاستسقاء",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 209,
+        "chapterNumber": "4",
+        "chapterEnglish": "Prayer (Kitab Al-Salat): Detailed Rules of Law about the Prayer during Journey",
+        "chapterUrdu": "نماز سفر کے احکام و مسائل",
+        "chapterArabic": "كتاب صلاة السفر",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 210,
+        "chapterNumber": "5",
+        "chapterEnglish": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+        "chapterUrdu": "نوافل اور سنتوں کے احکام و مسائل",
+        "chapterArabic": "كتاب التطوع",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 211,
+        "chapterNumber": "6",
+        "chapterEnglish": "Prayer (Kitab Al-Salat): Detailed Injunctions about Ramadan",
+        "chapterUrdu": "ماہ رمضان المبارک کے احکام و مسائل",
+        "chapterArabic": "كتاب شهر رمضان",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 212,
+        "chapterNumber": "7",
+        "chapterEnglish": "Prayer (Kitab Al-Salat): Prostration while reciting the Qur'an",
+        "chapterUrdu": "سجدہ تلاوت کے احکام و مسائل",
+        "chapterArabic": "كتاب سجود القرآن",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 213,
+        "chapterNumber": "8",
+        "chapterEnglish": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr",
+        "chapterUrdu": "وتر کے فروعی احکام و مسائل",
+        "chapterArabic": "كتاب الوتر",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 214,
+        "chapterNumber": "9",
+        "chapterEnglish": "Zakat (Kitab Al-Zakat)",
+        "chapterUrdu": "زکوۃ کے احکام و مسائل",
+        "chapterArabic": "كتاب الزكاة",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 215,
+        "chapterNumber": "10",
+        "chapterEnglish": "The Book of Lost and Found Items",
+        "chapterUrdu": "گری پڑی گمشدہ چیزوں سے متعلق مسائل",
+        "chapterArabic": "كتاب اللقطة",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 216,
+        "chapterNumber": "11",
+        "chapterEnglish": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)",
+        "chapterUrdu": "اعمال حج اور اس کے احکام و مسائل",
+        "chapterArabic": "كتاب المناسك",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 217,
+        "chapterNumber": "12",
+        "chapterEnglish": "Marriage (Kitab Al-Nikah)",
+        "chapterUrdu": "نکاح کے احکام و مسائل",
+        "chapterArabic": "كتاب النكاح",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 218,
+        "chapterNumber": "13",
+        "chapterEnglish": "Divorce (Kitab Al-Talaq)",
+        "chapterUrdu": "طلاق کے فروعی احکام و مسائل",
+        "chapterArabic": "كتاب الطلاق",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 219,
+        "chapterNumber": "14",
+        "chapterEnglish": "Fasting (Kitab Al-Siyam)",
+        "chapterUrdu": "روزوں کے احکام و مسائل",
+        "chapterArabic": "كتاب الصوم",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 220,
+        "chapterNumber": "15",
+        "chapterEnglish": "Jihad (Kitab Al-Jihad)",
+        "chapterUrdu": "جہاد کے مسائل",
+        "chapterArabic": "كتاب الجهاد",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 221,
+        "chapterNumber": "16",
+        "chapterEnglish": "Sacrifice (Kitab Al-Dahaya)",
+        "chapterUrdu": "قربانی کے مسائل",
+        "chapterArabic": "كتاب الضحايا",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 222,
+        "chapterNumber": "17",
+        "chapterEnglish": "Game (Kitab Al-Said)",
+        "chapterUrdu": "شکار کے احکام و مسائل",
+        "chapterArabic": "كتاب الصيد",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 223,
+        "chapterNumber": "18",
+        "chapterEnglish": "Wills (Kitab Al-Wasaya)",
+        "chapterUrdu": "وصیت کے احکام و مسائل",
+        "chapterArabic": "كتاب الوصايا",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 224,
+        "chapterNumber": "19",
+        "chapterEnglish": "Shares of Inheritance (Kitab Al-Fara'id)",
+        "chapterUrdu": "وراثت کے احکام و مسائل",
+        "chapterArabic": "كتاب الفرائض",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 225,
+        "chapterNumber": "20",
+        "chapterEnglish": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)",
+        "chapterUrdu": "محصورات اراضی اور امارت سے متعلق احکام و مسائل",
+        "chapterArabic": "كتاب الخراج والإمارة والفىء",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 226,
+        "chapterNumber": "21",
+        "chapterEnglish": "Funerals (Kitab Al-Jana'iz)",
+        "chapterUrdu": "جنازے کے احکام و مسائل",
+        "chapterArabic": "كتاب الجنائز",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 227,
+        "chapterNumber": "22",
+        "chapterEnglish": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)",
+        "chapterUrdu": "قسم کھانے اور نذر کے احکام و مسائل",
+        "chapterArabic": "كتاب الأيمان والنذور",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 228,
+        "chapterNumber": "23",
+        "chapterEnglish": "Commercial Transactions (Kitab Al-Buyu)",
+        "chapterUrdu": "خرید و فروخت کے احکام و مسائل",
+        "chapterArabic": "كتاب البيوع",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 229,
+        "chapterNumber": "24",
+        "chapterEnglish": "Wages (Kitab Al-Ijarah)",
+        "chapterUrdu": "اجارے کے احکام و مسائل",
+        "chapterArabic": "كتاب الإجارة",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 230,
+        "chapterNumber": "25",
+        "chapterEnglish": "The Office of the Judge (Kitab Al-Aqdiyah)",
+        "chapterUrdu": "قضاء کے متعلق احکام و مسائل",
+        "chapterArabic": "كتاب الأقضية",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 231,
+        "chapterNumber": "26",
+        "chapterEnglish": "Knowledge (Kitab Al-Ilm)",
+        "chapterUrdu": "علم کے مسائل",
+        "chapterArabic": "كتاب العلم",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 232,
+        "chapterNumber": "27",
+        "chapterEnglish": "Drinks (Kitab Al-Ashribah)",
+        "chapterUrdu": "مشروبات سے متعلق احکام و مسائل",
+        "chapterArabic": "كتاب الأشربة",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 233,
+        "chapterNumber": "28",
+        "chapterEnglish": "Foods (Kitab Al-At'imah)",
+        "chapterUrdu": "کھانے کے متعلق احکام و مسائل",
+        "chapterArabic": "كتاب الأطعمة",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 234,
+        "chapterNumber": "29",
+        "chapterEnglish": "Medicine (Kitab Al-Tibb)",
+        "chapterUrdu": "علاج کے احکام و مسائل",
+        "chapterArabic": "كتاب الطب",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 235,
+        "chapterNumber": "30",
+        "chapterEnglish": "Divination and Omens (Kitab Al-Kahanah Wa Al-Tatayyur)",
+        "chapterUrdu": "کہانت اور بدفالی سے متعلق احکام و مسائل",
+        "chapterArabic": "كتاب الكهانة و التطير",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 236,
+        "chapterNumber": "31",
+        "chapterEnglish": "The Book of Manumission of Slaves",
+        "chapterUrdu": "غلاموں کی آزادی سے متعلق احکام و مسائل",
+        "chapterArabic": "كتاب العتق",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 237,
+        "chapterNumber": "32",
+        "chapterEnglish": "Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at)",
+        "chapterUrdu": "قرآن کریم کی بابت لہجوں اور قراتوں کا بیان",
+        "chapterArabic": "كتاب الحروف والقراءات",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 238,
+        "chapterNumber": "33",
+        "chapterEnglish": "Hot Baths (Kitab Al-Hammam)",
+        "chapterUrdu": "حمامات ( اجتماعی غسل خانوں) سے متعلق مسائل",
+        "chapterArabic": "كتاب الحمَّام",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 239,
+        "chapterNumber": "34",
+        "chapterEnglish": "Clothing (Kitab Al-Libas)",
+        "chapterUrdu": "لباس سے متعلق احکام و مسائل",
+        "chapterArabic": "كتاب اللباس",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 240,
+        "chapterNumber": "35",
+        "chapterEnglish": "Combing the Hair (Kitab Al-Tarajjul)",
+        "chapterUrdu": "بالوں اور کنگھی چوٹی کے احکام و مسائل",
+        "chapterArabic": "كتاب الترجل",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 241,
+        "chapterNumber": "36",
+        "chapterEnglish": "Signet-Rings (Kitab Al-Khatam)",
+        "chapterUrdu": "انگوٹھیوں سے متعلق احکام و مسائل",
+        "chapterArabic": "كتاب الخاتم",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 242,
+        "chapterNumber": "37",
+        "chapterEnglish": "Trials and Fierce Battles (Kitab Al-Fitan Wa Al-Malahim)",
+        "chapterUrdu": "فتنوں اور جنگوں کا بیان",
+        "chapterArabic": "كتاب الفتن والملاحم",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 243,
+        "chapterNumber": "38",
+        "chapterEnglish": "The Promised Deliverer (Kitab Al-Mahdi)",
+        "chapterUrdu": "مہدی کا بیان",
+        "chapterArabic": "كتاب المهدى",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 244,
+        "chapterNumber": "39",
+        "chapterEnglish": "Battles (Kitab Al-Malahim)",
+        "chapterUrdu": "اہم معرکوں کا بیان جو امت میں ہونے والے ہیں",
+        "chapterArabic": "كتاب الملاحم",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 245,
+        "chapterNumber": "40",
+        "chapterEnglish": "Prescribed Punishments (Kitab Al-Hudud)",
+        "chapterUrdu": "حدود اور تعزیرات کا بیان",
+        "chapterArabic": "كتاب الحدود",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 246,
+        "chapterNumber": "41",
+        "chapterEnglish": "Types of Blood-Wit (Kitab Al-Diyat)",
+        "chapterUrdu": "دیتوں کا بیان",
+        "chapterArabic": "كتاب الديات",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 247,
+        "chapterNumber": "42",
+        "chapterEnglish": "Model Behavior of the Prophet (Kitab Al-Sunnah)",
+        "chapterUrdu": "سنتوں کا بیان",
+        "chapterArabic": "كتاب السنة",
+        "bookSlug": "abu-dawood"
+    },
+    {
+        "id": 248,
+        "chapterNumber": "43",
+        "chapterEnglish": "General Behavior (Kitab Al-Adab)",
+        "chapterUrdu": "آداب و اخلاق کا بیان",
+        "chapterArabic": "كتاب الأدب",
+        "bookSlug": "abu-dawood"
+    }
+]

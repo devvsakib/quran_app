@@ -1,0 +1,11 @@
+.ant-btn {
+    color: var(--color-primary);
+    background-color: var(--color-secondary);
+    border-color: var(--color-tertiary);
+    transition: all 0.3s;
+    &:hover {
+        color: var(--color-secondary);
+        background-color: var(--color-tertiary) !important;
+        border-color: var(--color-secondary);
+    }
+}

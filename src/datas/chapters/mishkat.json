@@ -1,0 +1,234 @@
+[
+    {
+        "id": 376,
+        "chapterNumber": "1",
+        "chapterEnglish": "Faith",
+        "chapterUrdu": "ایمان کا بیان",
+        "chapterArabic": "كتاب الإيمان",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 377,
+        "chapterNumber": "2",
+        "chapterEnglish": "Knowledge",
+        "chapterUrdu": "علم اور اس کی فضیلت کا بیان",
+        "chapterArabic": "كتاب العلم",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 378,
+        "chapterNumber": "3",
+        "chapterEnglish": "Purification",
+        "chapterUrdu": "پاکیزگی کا بیان",
+        "chapterArabic": "كتاب الطهارة",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 379,
+        "chapterNumber": "4",
+        "chapterEnglish": "Prayer",
+        "chapterUrdu": "نماز کا بیان",
+        "chapterArabic": "كتاب الصلاة",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 380,
+        "chapterNumber": "5",
+        "chapterEnglish": "Funerals",
+        "chapterUrdu": "جنازوں کا بیان",
+        "chapterArabic": "كتاب الجنائز",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 381,
+        "chapterNumber": "6",
+        "chapterEnglish": "Zakat",
+        "chapterUrdu": "زکوۃ کا بیان",
+        "chapterArabic": "كتاب الزكاة",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 382,
+        "chapterNumber": "7",
+        "chapterEnglish": "Fasting",
+        "chapterUrdu": "روزوں کا بیان",
+        "chapterArabic": "كتاب الصوم",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 383,
+        "chapterNumber": "8",
+        "chapterEnglish": "The Excellent Qualities of the Qur'an",
+        "chapterUrdu": "فضائل قرآن کا بیان",
+        "chapterArabic": "كتاب فضائل القرآن",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 384,
+        "chapterNumber": "9",
+        "chapterEnglish": "Supplications",
+        "chapterUrdu": "دعاؤں کا بیان",
+        "chapterArabic": "كتاب الدعوات",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 385,
+        "chapterNumber": "10",
+        "chapterEnglish": "The Rites of Pilgrimage",
+        "chapterUrdu": "افعال حج کا بیان",
+        "chapterArabic": "كتاب المناسك",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 386,
+        "chapterNumber": "11",
+        "chapterEnglish": "Business Transactions",
+        "chapterUrdu": "خرید و فروخت کا بیان",
+        "chapterArabic": "كتاب البيوع",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 387,
+        "chapterNumber": "12",
+        "chapterEnglish": "Inheritance and Wills",
+        "chapterUrdu": "میراث کا بیان",
+        "chapterArabic": "كتاب الفرائض والوصايا",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 388,
+        "chapterNumber": "13",
+        "chapterEnglish": "Marriage",
+        "chapterUrdu": "نکاح کا بیان",
+        "chapterArabic": "كتاب النكاح",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 389,
+        "chapterNumber": "14",
+        "chapterEnglish": "Emancipation",
+        "chapterUrdu": "غلام کو آزاد کرنے کا بیان",
+        "chapterArabic": "كتاب العتق",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 390,
+        "chapterNumber": "15",
+        "chapterEnglish": "Retaliation",
+        "chapterUrdu": "قصاص کا بیان",
+        "chapterArabic": "كتاب القصاص",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 391,
+        "chapterNumber": "16",
+        "chapterEnglish": "Prescribed Punishments",
+        "chapterUrdu": "حدود کا بیان",
+        "chapterArabic": "كتاب الحدود",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 392,
+        "chapterNumber": "17",
+        "chapterEnglish": "The Offices of Commander and Qadi",
+        "chapterUrdu": "امارت و قضاء کا بیان",
+        "chapterArabic": "كتاب الإمارة والقضاء",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 393,
+        "chapterNumber": "18",
+        "chapterEnglish": "Jihad",
+        "chapterUrdu": "جہاد کا بیان",
+        "chapterArabic": "كتاب الجهاد",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 394,
+        "chapterNumber": "19",
+        "chapterEnglish": "Game and Animals Which May Be Slaughtered",
+        "chapterUrdu": "شکار اور حلال جانوروں کا بیان",
+        "chapterArabic": "كتاب الصيد والذبائح",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 395,
+        "chapterNumber": "20",
+        "chapterEnglish": "Foods",
+        "chapterUrdu": "کھانوں کا بیان",
+        "chapterArabic": "كتاب الأطعمة",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 396,
+        "chapterNumber": "21",
+        "chapterEnglish": "Clothing",
+        "chapterUrdu": "لباس کا بیان",
+        "chapterArabic": "كتاب اللباس",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 397,
+        "chapterNumber": "22",
+        "chapterEnglish": "Medicine and Spells",
+        "chapterUrdu": "طب اور جھاڑ پھونک کا بیان",
+        "chapterArabic": "كتاب الطب والرقى",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 398,
+        "chapterNumber": "23",
+        "chapterEnglish": "Visions",
+        "chapterUrdu": "خواب کا بیان",
+        "chapterArabic": "كتاب الرؤيا",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 399,
+        "chapterNumber": "24",
+        "chapterEnglish": "Etiquette",
+        "chapterUrdu": "آداب کا بیان",
+        "chapterArabic": "كتاب الْآدَاب",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 400,
+        "chapterNumber": "25",
+        "chapterEnglish": "Things that soften the heart",
+        "chapterUrdu": "دلوں کو نرم بنانے والی باتوں کا بیان",
+        "chapterArabic": "کتاب الرقاق",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 401,
+        "chapterNumber": "26",
+        "chapterEnglish": "Tribulations",
+        "chapterUrdu": "فتنوں کا بیان",
+        "chapterArabic": "کتاب الفتن",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 402,
+        "chapterNumber": "27",
+        "chapterEnglish": "The Conditions of Resurrection",
+        "chapterUrdu": "قیامت کے احوال اور دوبارہ اٹھائے جانے کا بیان",
+        "chapterArabic": "كتاب أَحْوَال الْقِيَامَة وبدء الْخلق",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 403,
+        "chapterNumber": "28",
+        "chapterEnglish": "Virtues and merits",
+        "chapterUrdu": "فضائل اور خصائل کا بیان",
+        "chapterArabic": "كتاب الْفَضَائِل وَالشَّمَائِل",
+        "bookSlug": "mishkat"
+    },
+    {
+        "id": 404,
+        "chapterNumber": "29",
+        "chapterEnglish": "Virtues",
+        "chapterUrdu": "کتاب المناقب",
+        "chapterArabic": "كتاب المناقب",
+        "bookSlug": "mishkat"
+    }
+]

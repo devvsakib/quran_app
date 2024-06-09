@@ -1,0 +1,402 @@
+[
+    {
+        "id": 156,
+        "chapterNumber": "1",
+        "chapterEnglish": "The Book on Purification",
+        "chapterUrdu": "طہارت کے احکام و مسائل",
+        "chapterArabic": "كتاب الطهارة عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 157,
+        "chapterNumber": "2",
+        "chapterEnglish": "The Book on Salat (Prayer)",
+        "chapterUrdu": "نماز کے احکام و مسائل",
+        "chapterArabic": "كتاب الصلاة",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 158,
+        "chapterNumber": "3",
+        "chapterEnglish": "The Book on Rulings and issues related to forgetfulness in prayer",
+        "chapterUrdu": "نماز میں سہو و نسیان سے متعلق احکام و مسائل",
+        "chapterArabic": "كتاب أحكام ومسائل النسيان في الصلاة",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 159,
+        "chapterNumber": "4",
+        "chapterEnglish": "The Book on Al-Witr",
+        "chapterUrdu": "صلاۃ وترکے ابواب",
+        "chapterArabic": "أَبْوَابُ الْوِتْرِ",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 160,
+        "chapterNumber": "5",
+        "chapterEnglish": "The Book on the Day of Friday",
+        "chapterUrdu": "جمعہ کے احکام و مسائل",
+        "chapterArabic": "كِتَاب الْجُمُعَةِ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 161,
+        "chapterNumber": "6",
+        "chapterEnglish": "The Book on the Two Eids",
+        "chapterUrdu": "عیدین کے احکام و مسائل",
+        "chapterArabic": "أَبْوَابُ الْعِيدَيْنِ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 162,
+        "chapterNumber": "7",
+        "chapterEnglish": "The Book on Traveling",
+        "chapterUrdu": "سفر کے احکام و مسائل",
+        "chapterArabic": "أَبْوَابُ السَّفَرِ",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 163,
+        "chapterNumber": "8",
+        "chapterEnglish": "The Book on Zakat",
+        "chapterUrdu": "زکاۃ و صدقات کے احکام و مسائل",
+        "chapterArabic": "كتاب الزكاة عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 164,
+        "chapterNumber": "9",
+        "chapterEnglish": "The Book on Fasting",
+        "chapterUrdu": "روزوں کے احکام و مسائل",
+        "chapterArabic": "كتاب الصوم عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 165,
+        "chapterNumber": "10",
+        "chapterEnglish": "The Book on Hajj",
+        "chapterUrdu": "حج کے احکام و مناسک",
+        "chapterArabic": "كتاب الحج عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 166,
+        "chapterNumber": "11",
+        "chapterEnglish": "The Book on Jana`iz (Funerals)",
+        "chapterUrdu": "جنازہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الجنائز عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 167,
+        "chapterNumber": "12",
+        "chapterEnglish": "The Book on Marriage",
+        "chapterUrdu": "نکاح کے احکام و مسائل",
+        "chapterArabic": "كتاب النكاح عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 168,
+        "chapterNumber": "13",
+        "chapterEnglish": "The Book on Suckling",
+        "chapterUrdu": "رضاعت کے احکام و مسائل",
+        "chapterArabic": "كتاب الرضاع",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 169,
+        "chapterNumber": "14",
+        "chapterEnglish": "The Book on Divorce and Li'an",
+        "chapterUrdu": "طلاق اور لعان کے احکام و مسائل",
+        "chapterArabic": "كتاب الطلاق واللعان عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 170,
+        "chapterNumber": "15",
+        "chapterEnglish": "The Book on Business",
+        "chapterUrdu": "خرید و فروخت کے احکام و مسائل",
+        "chapterArabic": "كتاب البيوع عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 171,
+        "chapterNumber": "16",
+        "chapterEnglish": "The Chapters On Judgements From The Messenger of Allah",
+        "chapterUrdu": "نبی اکرم صلی الله علیہ وسلم کے احکامات اور فیصلے",
+        "chapterArabic": "كتاب الأحكام عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 172,
+        "chapterNumber": "17",
+        "chapterEnglish": "The Book on Blood Money",
+        "chapterUrdu": "دیت و قصاص کے احکام و مسائل",
+        "chapterArabic": "كتاب الديات عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 173,
+        "chapterNumber": "18",
+        "chapterEnglish": "The Book on Legal Punishments (Al-Hudud)",
+        "chapterUrdu": "حدود و تعزیرات سے متعلق احکام و مسائل",
+        "chapterArabic": "كتاب الحدود عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 174,
+        "chapterNumber": "19",
+        "chapterEnglish": "The Book on Hunting",
+        "chapterUrdu": "شکار کے احکام و مسائل",
+        "chapterArabic": "كتاب الصيد والذبائح عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 175,
+        "chapterNumber": "20",
+        "chapterEnglish": "The Book on Sacrifices",
+        "chapterUrdu": "قربانی کے احکام و مسائل",
+        "chapterArabic": "كتاب الأضاحى عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 176,
+        "chapterNumber": "21",
+        "chapterEnglish": "The Book on Vows and Oaths",
+        "chapterUrdu": "نذر اور قسم ( حلف ) کے احکام و مسائل",
+        "chapterArabic": "كتاب النذور والأيمان عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 177,
+        "chapterNumber": "22",
+        "chapterEnglish": "The Book on Military Expeditions",
+        "chapterUrdu": "جہاد کے احکام و مسائل",
+        "chapterArabic": "كتاب السير عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 178,
+        "chapterNumber": "23",
+        "chapterEnglish": "The Book on Virtues of Jihad",
+        "chapterUrdu": "فضائل جہاد",
+        "chapterArabic": "كتاب فضائل الجهاد عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 179,
+        "chapterNumber": "24",
+        "chapterEnglish": "The Book on Jihad",
+        "chapterUrdu": "جہاد کے احکام و مسائل",
+        "chapterArabic": "كتاب الجهاد عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 180,
+        "chapterNumber": "25",
+        "chapterEnglish": "The Book on Clothing",
+        "chapterUrdu": "لباس کے احکام و مسائل",
+        "chapterArabic": "كتاب اللباس",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 181,
+        "chapterNumber": "26",
+        "chapterEnglish": "The Book on Food",
+        "chapterUrdu": "کھانے کے احکام و مسائل",
+        "chapterArabic": "كتاب الأطعمة عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 182,
+        "chapterNumber": "27",
+        "chapterEnglish": "The Book on Drinks",
+        "chapterUrdu": "مشروبات ( پینے والی چیزوں ) کے احکام و مسائل",
+        "chapterArabic": "كتاب الأشربة عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 183,
+        "chapterNumber": "28",
+        "chapterEnglish": "Chapter on Righteousness And Maintaining Good Relations With Relatives",
+        "chapterUrdu": "نیکی اور صلہ رحمی",
+        "chapterArabic": "كتاب البر والصلة عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 184,
+        "chapterNumber": "29",
+        "chapterEnglish": "Chapter on Medicine",
+        "chapterUrdu": "طب ( علاج و معالجہ ) کے احکام و مسائل",
+        "chapterArabic": "كتاب الطب عن رسول اللَّهِ صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 185,
+        "chapterNumber": "30",
+        "chapterEnglish": "Chapter on Inheritance",
+        "chapterUrdu": "وراثت کے احکام و مسائل",
+        "chapterArabic": "كتاب الفرائض عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 186,
+        "chapterNumber": "31",
+        "chapterEnglish": "Chapter on Wasaya (Wills and Testament)",
+        "chapterUrdu": "وصیت کے احکام و مسائل",
+        "chapterArabic": "كتاب الوصايا عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 187,
+        "chapterNumber": "32",
+        "chapterEnglish": "Chapter on Wala' And Gifts",
+        "chapterUrdu": "ولاء اور ہبہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الولاء والهبة عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 188,
+        "chapterNumber": "33",
+        "chapterEnglish": "Chapter on Al-Qadar",
+        "chapterUrdu": "تقدیر کے احکام و مسائل",
+        "chapterArabic": "كتاب القدر عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 189,
+        "chapterNumber": "34",
+        "chapterEnglish": "Chapter on Al-Fitan",
+        "chapterUrdu": "ایام فتن کے احکام اور امت میں واقع ہونے والے فتنوں کی پیش گوئیاں",
+        "chapterArabic": "كتاب الفتن عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 190,
+        "chapterNumber": "35",
+        "chapterEnglish": "Chapter on Dreams",
+        "chapterUrdu": "خواب کے آداب و احکام",
+        "chapterArabic": "كتاب الرؤيا عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 191,
+        "chapterNumber": "36",
+        "chapterEnglish": "Chapter on Witnesses",
+        "chapterUrdu": "شہادت ( گواہی ) کے احکام و مسائل",
+        "chapterArabic": "كتاب الشهادات عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 192,
+        "chapterNumber": "37",
+        "chapterEnglish": "Chapter on Zuhd",
+        "chapterUrdu": "زہد ، ورع ، تقوی اور پرہیز گاری",
+        "chapterArabic": "كتاب الزهد عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 193,
+        "chapterNumber": "38",
+        "chapterEnglish": "Chapter on the description of the Day of Judgement, Ar-Riqaq, and Al-Wara`",
+        "chapterUrdu": "احوال قیامت ، رقت قلب اور ورع",
+        "chapterArabic": "كتاب صفة القيامة والرقائق والورع عن رسول الله صلى الله",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 194,
+        "chapterNumber": "39",
+        "chapterEnglish": "Chapter on the description of Paradise",
+        "chapterUrdu": "جنت کا وصف اور اس کی نعمتوں کا تذکرہ",
+        "chapterArabic": "كتاب صفة الجنة عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 195,
+        "chapterNumber": "40",
+        "chapterEnglish": "The Book on the Description of Hellfire",
+        "chapterUrdu": "جہنم اور اس کی ہولناکیوں کا تذکرہ",
+        "chapterArabic": "كتاب صفة جهنم عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 196,
+        "chapterNumber": "41",
+        "chapterEnglish": "The Book on Faith",
+        "chapterUrdu": "ایمان و اسلام",
+        "chapterArabic": "كتاب الإيمان عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 197,
+        "chapterNumber": "42",
+        "chapterEnglish": "Chapter on Knowledge",
+        "chapterUrdu": "علم اور فہم دین",
+        "chapterArabic": "كتاب العلم عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 198,
+        "chapterNumber": "43",
+        "chapterEnglish": "Chapter on Seeking Permission",
+        "chapterUrdu": "سلام مصافحہ اور گھر میں داخل ہونے کے آداب و احکام",
+        "chapterArabic": "كتاب الاستئذان والآداب عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 199,
+        "chapterNumber": "44",
+        "chapterEnglish": "Chapter on Manners",
+        "chapterUrdu": "اسلامی اخلاق و آداب",
+        "chapterArabic": "كتاب الأدب عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 200,
+        "chapterNumber": "45",
+        "chapterEnglish": "Chapter on Parables",
+        "chapterUrdu": "مثل اور کہاوت کا تذکرہ",
+        "chapterArabic": "كتاب الأمثال عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 201,
+        "chapterNumber": "46",
+        "chapterEnglish": "Chapter on The Virtues of the Qur`an",
+        "chapterUrdu": "قرآن کریم کے مناقب و فضائل",
+        "chapterArabic": "كتاب فضائل القرآن عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 202,
+        "chapterNumber": "47",
+        "chapterEnglish": "Chapter on Recitation",
+        "chapterUrdu": "قرآن کریم کی قرأت و تلاوت",
+        "chapterArabic": "كتاب القراءات عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 203,
+        "chapterNumber": "48",
+        "chapterEnglish": "Chapter on Tafsir",
+        "chapterUrdu": "تفسیر قرآن کریم",
+        "chapterArabic": "كتاب تفسير القرآن عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 204,
+        "chapterNumber": "49",
+        "chapterEnglish": "Chapter on Supplication",
+        "chapterUrdu": "مسنون ادعیہ و اذکار",
+        "chapterArabic": "كتاب الدعوات عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    },
+    {
+        "id": 205,
+        "chapterNumber": "50",
+        "chapterEnglish": "Chapter on Virtues",
+        "chapterUrdu": "فضائل و مناقب",
+        "chapterArabic": "كتاب المناقب عن رسول الله صلى الله عليه وسلم",
+        "bookSlug": "al-tirmidhi"
+    }
+]

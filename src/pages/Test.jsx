@@ -1,14 +1,17 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useRef, useState } from 'react'
 import axios from 'axios'
 import CommonLayout from '../layouts/CommonLayout';
-import { Table, Radio, Button, Segmented } from 'antd';
+import { Table, Radio, Button, Segmented, Input, Space } from 'antd';
 import { Link } from 'react-router-dom';
+import { SearchOutlined } from '@ant-design/icons';
 
 const Test = () => {
     const [chapter, setChapter] = useState([])
+    const [isLoading, setIsLoading] = useState(false)
     const [surahNameLang, setSurahNameLang] = useState('name_simple') // Default language is English
 
     useEffect(() => {
+        setIsLoading(true)
         let config = {
             method: 'get',
             maxBodyLength: Infinity,
@@ -24,27 +27,76 @@ const Test = () => {
             })
             .catch((error) => {
                 console.log(error);
+            }).finally(() => {
+                setIsLoading(false)
             });
     }, [])
-    const d = {
-        "id": 1,
-        "revelation_place": "makkah",
-        "revelation_order": 5,
-        "bismillah_pre": false,
-        "name_simple": "Al-Fatihah",
-        "name_complex": "Al-Fātiĥah",
-        "name_arabic": "الفاتحة",
-        "verses_count": 7,
-        "pages": [
-            1,
-            1
-        ],
-        "translated_name": {
-            "language_name": "english",
-            "name": "The Opener"
-        }
-    }
-    console.log(chapter[0])
+    const [searchText, setSearchText] = useState('');
+    const [searchedColumn, setSearchedColumn] = useState('');
+    const searchInput = useRef(null);
+    const handleSearch = (selectedKeys, confirm, dataIndex) => {
+        confirm();
+        setSearchText(selectedKeys[0]);
+        setSearchedColumn(dataIndex);
+    };
+
+    const getColumnSearchProps = (dataIndex) => ({
+        filterDropdown: ({ setSelectedKeys, selectedKeys, confirm, clearFilters, close }) => (
+            <div
+                style={{
+                    padding: 8,
+                }}
+                onKeyDown={(e) => e.stopPropagation()}
+            >
+                <Input
+                    ref={searchInput}
+                    placeholder={`Search ${dataIndex}`}
+                    value={selectedKeys[0]}
+                    onChange={(e) => setSelectedKeys(e.target.value ? [e.target.value] : [])}
+                    onPressEnter={() => handleSearch(selectedKeys, confirm, dataIndex)}
+                    style={{
+                        marginBottom: 8,
+                        display: 'block',
+                    }}
+                />
+                <Space>
+                    <Button
+                        type="primary"
+                        onClick={() => handleSearch(selectedKeys, confirm, dataIndex)}
+                        icon={<SearchOutlined />}
+                        size="small"
+                        style={{
+                            width: 90,
+                        }}
+                    >
+                        Search
+                    </Button>
+                    <Button
+                        onClick={() => clearFilters && handleReset(clearFilters)}
+                        size="small"
+                        style={{
+                            width: 90,
+                        }}
+                    >
+                        Reset
+                    </Button>
+                </Space>
+            </div >
+        ),
+        onFilter: (value, record) =>
+            record[dataIndex].toString().toLowerCase().includes(value.toLowerCase()),
+        onFilterDropdownOpenChange: (visible) => {
+            if (visible) {
+                setTimeout(() => searchInput.current?.select(), 100);
+            }
+        },
+        render: (text, record) =>
+            searchedColumn === dataIndex ? (
+                <Link to={`/quran/${record.id}`}>{text}</Link>
+            ) : (
+                <Link to={`/quran/${record.id}`}>{text}</Link>
+            ),
+    });
 
     return (
         <CommonLayout>
@@ -63,38 +115,66 @@ const Test = () => {
                 />
 
                 <Table
+                virtual={true}
                     dataSource={chapter}
                     columns={[
                         {
-                            title: 'Name',
-                            dataIndex: surahNameLang === 'name_simple' ? 'name_simple' : 'name_arabic',
-                            key: 'name',
-                            render: (text, record) => <Link to={`/quran/${record.id}`}>{text}</Link>,
-                            filterDropdown: ({ setSelectedKeys, selectedKeys, confirm, clearFilters }) => (
-                                <Radio.Group
-                                    className='p-2 grid gap-2'
-                                    onChange={(e) => {
-                                        setSurahNameLang(e.target.value);
-                                        setSelectedKeys([e.target.value]);
-                                        confirm();
-                                    }}
-                                    defaultValue={surahNameLang}
-                                >
-                                    <Radio value="name-arabic">Arabic</Radio>
-                                    <Radio value="name_simple">English</Radio>
-                                </Radio.Group>
-                            ),
-                        },
-                        {
-                            title: 'Revelation Place',
-                            dataIndex: 'revelation_place',
-                            key: 'revelation_place',
+                            title: 'Type',
+                            dataIndex: 'id',
+                            key: 'id',
+                            render: (text, record) => record.revelation_place === 'makkah' ? <img src={`/meccan.svg`} className="h-10  -bottom-20" /> :
+                                <img src={`/medinan.svg`} className="h-10  -bottom-20" />,
                             filters: [
                                 { text: 'Makkah', value: 'makkah' },
                                 { text: 'Madina', value: 'madina' },
                             ],
                             onFilter: (value, record) => record.revelation_place.indexOf(value) === 0,
 
+                        },
+                        {
+                            title: 'Name',
+                            dataIndex: surahNameLang === 'name_simple' ? 'name_simple' : 'name_arabic',
+                            key: 'name',
+                            ...getColumnSearchProps(surahNameLang === 'name_simple' ? 'name_simple' : 'name_arabic'),
+                            // render: (text, record) => <Link to={`/quran/${record.id}`}>{text}</Link>,
+                            // filterDropdown: ({ setSelectedKeys, selectedKeys, confirm, clearFilters }) => (
+                            //     <div className='p-3'>
+                            //         <div>
+
+                            //             <Input
+                            //                 ref={searchInput}
+                            //                 placeholder={`Search `}
+                            //                 value={selectedKeys[0]}
+                            //                 onChange={(e) => setSelectedKeys(e.target.value ? [e.target.value] : [])}
+                            //                 onPressEnter={() => handleSearch(selectedKeys, confirm, 'name_simple')}
+                            //                 style={{
+                            //                     marginBottom: 8,
+                            //                     display: 'block',
+                            //                 }}
+                            //             />
+                            //             <Button
+                            //                 type="primary"
+                            //                 onClick={() => handleSearch(selectedKeys, confirm, 'name_simple')}
+                            //                 icon={<SearchOutlined />}
+                            //                 size="small"
+                            //             >
+                            //                 Search
+                            //             </Button>
+                            //         </div>
+                            //         <Radio.Group
+                            //             className='p-2 grid gap-2'
+                            //             onChange={(e) => {
+                            //                 setSurahNameLang(e.target.value);
+                            //                 setSelectedKeys([e.target.value]);
+                            //                 confirm();
+                            //             }}
+                            //             defaultValue={surahNameLang}
+                            //         >
+                            //             <Radio value="name-arabic">Arabic</Radio>
+                            //             <Radio value="name_simple">English</Radio>
+                            //         </Radio.Group>
+                            //     </div>
+                            // ),
                         },
                         {
                             title: 'Revelation Order',
@@ -109,18 +189,12 @@ const Test = () => {
                             sorter: (a, b) => a.revelation_order - b.revelation_order,
                         }
                     ]}
-                    // loading
+                    loading={isLoading}
                     // loading={chapter.length === 0}
                     locale={
-
                         {
-                            emptyText: <svg className='surahLoadingSvg' viewBox="0 0 1320 300">
-                                <text x="50%" y="50%" dy=".35em" textAnchor="middle">
-                                    {
-                                        "Loading..."
-                                    }
-                                </text>
-                            </svg>
+                            emptyText: 'No Surah Found',
+                            
                         }
                     }
                 />

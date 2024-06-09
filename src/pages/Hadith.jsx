@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import CommonLayout from '../layouts/CommonLayout'
+import { Table } from 'antd'
 
 const Hadith = () => {
 
@@ -42,8 +43,20 @@ const Hadith = () => {
                 setLoading(false)
             })
     }, [])
+    const addArabicToBangla = () => {
+        let mainData = []
+        if (arHadith?.hadiths && bnHadith?.hadiths) {
+            for (let i = 0; i < bnHadith?.hadiths.length; i++) {
+                mainData.push({
+                    ...bnHadith?.hadiths[i],
+                    arabic: arHadith?.hadiths[i].text
+                })
+            }
+        }
+        return mainData
+    }
 
-    console.log(bnHadith?.hadiths.map(hadith => hadith.grades));
+
 
     return (
         <CommonLayout>
@@ -56,7 +69,33 @@ const Hadith = () => {
 
                     <p className='mt-5 mb-2'>Chapter</p>
                     <div className='grid gap-4'>
-                        {
+                        <Table
+                            dataSource={addArabicToBangla()}
+                            columns={[
+                                {
+                                    title: 'Hadith Number',
+                                    dataIndex: 'hadithnumber',
+                                    key: 'id',
+                                },
+                                {
+                                    title: 'Bangla',
+                                    dataIndex: 'text',
+                                    key: 'id',
+                                },
+                                {
+                                    title: 'Arabic',
+                                    dataIndex: 'arabic',
+                                    key: 'id',
+                                    render: (text) => (
+                                        <p className='text-xl font-[uthmani]'>
+                                            {text}
+                                        </p>
+                                    )
+                                },
+
+                            ]}
+                        />
+                        {/* {
                             bnHadith?.hadiths && bnHadith?.hadiths.slice(0, 5).map((hadith, index) => {
                                 return (
                                     <div key={index} className='bg-white rounded-sm shadow p-4 grid grid-cols-2 gap-5'>
@@ -68,13 +107,13 @@ const Hadith = () => {
                                                 {hadith.text}
                                             </p>
                                         </div>
-                                        <div className='text-lg'>
+                                        <div className='text-2xl font-[uthmani]'>
                                             {arHadith?.hadiths[index].text}
                                         </div>
                                     </div>
                                 )
                             })
-                        }
+                        } */}
                     </div>
 
                     {/* <div className='grid grid-cols-2 gap-2'>

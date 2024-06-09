@@ -2,8 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-:root{
-    --light: #FCF3E9;
+:root {
+    /*FCF3E9, 795547, CA9B79 */
+    --color-primary: #FCF3E9;
+    --color-secondary: #795547;
+    --color-tertiary: #CA9B79;
 }
 
 @font-face {
@@ -12,36 +15,40 @@
 
 }
 
-body{
+body {
     font-family: "raleway";
     background-color: #FFFAF5;
 }
-.surahEngName{
+
+.surahEngName {
     font-family: "raleway";
     font-size: 20px;
     font-weight: 600
 }
-.surahEngMeaningName{
+
+.surahEngMeaningName {
     font-family: "raleway";
     font-size: 20px;
     font-weight: 400
 }
+
 .loadingSvg {
     font-family: 'Russo One', sans-serif;
 }
 
-.loadingSvg  text {
+.loadingSvg text {
     text-transform: uppercase;
     animation: stroke 5s infinite alternate;
     stroke-width: 2;
     stroke: #365fa0;
     font-size: 140px;
 }
+
 .surahLoadingSvg {
     font-family: 'Russo One', sans-serif;
 }
 
-.surahLoadingSvg  text {
+.surahLoadingSvg text {
     text-transform: uppercase;
     animation: stroke 2s infinite alternate;
     stroke-width: 2;
@@ -79,8 +86,32 @@ body{
     }
 }
 
-.ant-btn {
-    color: aliceblue;
-    background-color: #646cff;
-    transition: all 0.3s;
+.gradient-background {
+    background: linear-gradient(to bottom, #ffffff, #f2f2f2); /* Example gradient colors */
 }
+
+.breadcrumb {
+    display: flex;
+    align-items: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .breadcrumb-item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .breadcrumb-link {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .breadcrumb-link:hover {
+    text-decoration: underline;
+  }
+  
+  .breadcrumb-separator {
+    margin: 0 8px;
+    color: #6c757d;
+  }
+  

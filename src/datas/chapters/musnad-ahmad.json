@@ -1,0 +1,114 @@
+[
+    {
+        "id": 434,
+        "chapterNumber": "1",
+        "chapterEnglish": "The part of the principles of monotheism and religion",
+        "chapterUrdu": "کتاب کی قسمِ اوّل … توحید اور دین کے اصولوں کا حصہ",
+        "chapterArabic": "جزء من مبادئ التوحيد والدين",
+        "bookSlug": "musnad-ahmad"
+    },
+    {
+        "id": 435,
+        "chapterNumber": "2",
+        "chapterEnglish": "The book of faith and Islam",
+        "chapterUrdu": "ایمان اور اسلام کی کتاب",
+        "chapterArabic": "كتاب الإيمان والإسلام",
+        "bookSlug": "musnad-ahmad"
+    },
+    {
+        "id": 436,
+        "chapterNumber": "3",
+        "chapterEnglish": "Our religion is the highest form of Islam and to be proud of it and to be the most beloved religion in the sight of Allah Almighty",
+        "chapterUrdu": "ہمارے دین اسلام کی عالی ظرفی اور اس پر فخر کرنے اور اللہ تعالیٰ کے ہاں اس کے سب سے محبوب دین ہونے کا بیان",
+        "chapterArabic": "ديننا هو أرقى صور الإسلام ونفتخر به ونكون أحب الدين عند الله تعالى.",
+        "bookSlug": "musnad-ahmad"
+    },
+    {
+        "id": 437,
+        "chapterNumber": "4",
+        "chapterEnglish": "Chapters of knowledge",
+        "chapterUrdu": "علم کے ابواب",
+        "chapterArabic": "فصول المعرفة",
+        "bookSlug": "musnad-ahmad"
+    },
+    {
+        "id": 438,
+        "chapterNumber": "5",
+        "chapterEnglish": "Chapters on holding the Qur'an and Sunnah",
+        "chapterUrdu": "کتاب و سنت کو تھامنے کے ابواب",
+        "chapterArabic": "أبواب عقد القرآن والسنة",
+        "bookSlug": "musnad-ahmad"
+    },
+    {
+        "id": 439,
+        "chapterNumber": "6",
+        "chapterEnglish": "Chapters of Purity",
+        "chapterUrdu": "طہارت کے ابواب",
+        "chapterArabic": "فصول الطهارة",
+        "bookSlug": "musnad-ahmad"
+    },
+    {
+        "id": 440,
+        "chapterNumber": "7",
+        "chapterEnglish": "Chapters on Purification of Impurity",
+        "chapterUrdu": "نجاست کو پاک کرنے کے ابواب",
+        "chapterArabic": "فصول في تنقية النجاسة",
+        "bookSlug": "musnad-ahmad"
+    },
+    {
+        "id": 441,
+        "chapterNumber": "8",
+        "chapterEnglish": "Statement of the order of urine, madhi and semen etc.",
+        "chapterUrdu": "پیشاب، مذی اور منی وغیرہ کے حکم کا بیان",
+        "chapterArabic": "بيان ترتيب البول والمذي والسائل المنوي ... الخ.",
+        "bookSlug": "musnad-ahmad"
+    },
+    {
+        "id": 442,
+        "chapterNumber": "9",
+        "chapterEnglish": "Chapters on ablution, istanja, using stones and their etiquette",
+        "chapterUrdu": "قضائے حاجت کرنے، استنجا کرنے، پتھر استعمال کرنے اور ان کے آداب کے ابواب",
+        "chapterArabic": "أبواب الوضوء والاستنجا بالحجارة وآدابها",
+        "bookSlug": "musnad-ahmad"
+    },
+    {
+        "id": 443,
+        "chapterNumber": "10",
+        "chapterEnglish": "Description of istanja with stones and its etiquette",
+        "chapterUrdu": "پتھروں سے استنجا کرنے اور اس کے آداب کا بیان",
+        "chapterArabic": "وصف اسطنبول بالحجارة وآدابها",
+        "bookSlug": "musnad-ahmad"
+    },
+    {
+        "id": 444,
+        "chapterNumber": "11",
+        "chapterEnglish": "Chapters of Miswak",
+        "chapterUrdu": "مسواک کے ابواب",
+        "chapterArabic": "فصول السواك",
+        "bookSlug": "musnad-ahmad"
+    },
+    {
+        "id": 445,
+        "chapterNumber": "12",
+        "chapterEnglish": "Chapters on ablution",
+        "chapterUrdu": "وضو کے ابواب",
+        "chapterArabic": "فصول عن الوضوء",
+        "bookSlug": "musnad-ahmad"
+    },
+    {
+        "id": 446,
+        "chapterNumber": "13",
+        "chapterEnglish": "Statement of etiquette related to ablution",
+        "chapterUrdu": "وضوء سے متعلقہ آداب کا بیان",
+        "chapterArabic": "بيان آداب الوضوء",
+        "bookSlug": "musnad-ahmad"
+    },
+    {
+        "id": 447,
+        "chapterNumber": "14",
+        "chapterEnglish": "The state of ablution of the Holy Prophet (peace be upon him)",
+        "chapterUrdu": "نبی کریم ‌صلی ‌اللہ ‌علیہ ‌وآلہ ‌وسلم ‌ کے وضو کی کیفیت",
+        "chapterArabic": "حال وضوء الرسول الكريم صلى الله عليه وسلم",
+        "bookSlug": "musnad-ahmad"
+    }
+]

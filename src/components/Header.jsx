@@ -15,13 +15,13 @@ const Header = () => {
     //     toast.success("Logout Success")
     //     navigate("/")
     // }
-    const menu = ["test"]
+    const menu = ["test","hadith"]
     const changeTheme = () => {
-        document.querySelector("html").getAttribute("data-theme") === "night" ? document.querySelector("html").setAttribute("data-theme", "cmyk") : document.querySelector("html").setAttribute("data-theme", "night");
+        document.querySelector("html").getAttribute("data-theme") === "dark" ? document.querySelector("html").setAttribute("data-theme", "cmyk") : document.querySelector("html").setAttribute("data-theme", "dark");
         setLightTheme(!lightTheme)
     }
     return (
-        <header className='flex shadow rounded-b-md navbar items-center gap-5 py-4 bg-white/10 px-5'>
+        <header className='flex shadow rounded-b-md navbar items-center gap-5 py-4 bg-white/10 px-5 bg-white'>
             <div>
                 <Link to={'/'}>
                     <h2 className='font-bold text-3xl font-[raleway]'>QuranDaily</h2>
@@ -32,12 +32,12 @@ const Header = () => {
 
                     {
                         menu.map((item, index) => (
-                            <li><Link to={item} className="hover:text-orange-400 transition-colors duration-200 ease-linear capitalize text-lg">{item}</Link></li>
+                            <li key={index}><Link to={item} className="hover:text-orange-400 transition-colors duration-200 ease-linear capitalize text-lg">{item}</Link></li>
                         )
                         )}
                     {
                         !cookie.access_token ?
-                            <li><Link to={'/auth'} className="hover:text-orange-400 transition-colors duration-200 ease-linear text-lg">Login</Link></li>
+                            <li><Link to={'/login'} className="hover:text-orange-400 transition-colors duration-200 ease-linear text-lg">Login</Link></li>
                             :
                             <>
                                 <li><Link to={'/auth'} className="hover:text-orange-400 transition-colors duration-200 ease-linear text-lg"

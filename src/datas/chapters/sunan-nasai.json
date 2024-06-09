@@ -1,0 +1,418 @@
+[
+    {
+        "id": 288,
+        "chapterNumber": "1",
+        "chapterEnglish": "The Book of Purification",
+        "chapterUrdu": "طہارت کے احکام و مسائل",
+        "chapterArabic": "كتاب الطهارة",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 289,
+        "chapterNumber": "2",
+        "chapterEnglish": "The Book of Water",
+        "chapterUrdu": "پانی کے احکام و مسائل",
+        "chapterArabic": "كتاب المياه",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 290,
+        "chapterNumber": "3",
+        "chapterEnglish": "The Book of Menstruation and Istihadah",
+        "chapterUrdu": "حیض اور استحاضہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الحيض والاستحاضة",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 291,
+        "chapterNumber": "4",
+        "chapterEnglish": "The Book of Ghusl and Tayammum",
+        "chapterUrdu": "غسل اور تیمم کے احکام و مسائل",
+        "chapterArabic": "كتاب الغسل والتيمم",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 292,
+        "chapterNumber": "5",
+        "chapterEnglish": "The Book of Salah",
+        "chapterUrdu": "نماز کے احکام و مسائل",
+        "chapterArabic": "كتاب الصلاة",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 293,
+        "chapterNumber": "6",
+        "chapterEnglish": "The Book of the Times (of Prayer)",
+        "chapterUrdu": "اوقات نماز کے احکام و مسائل",
+        "chapterArabic": "كتاب المواقيت",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 294,
+        "chapterNumber": "7",
+        "chapterEnglish": "The Book of the Adhan (The Call to Prayer)",
+        "chapterUrdu": "اذان کے احکام و مسائل",
+        "chapterArabic": "كتاب الأذان",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 295,
+        "chapterNumber": "8",
+        "chapterEnglish": "The Book of the Masjids",
+        "chapterUrdu": "مساجد کے فضائل و مسائل",
+        "chapterArabic": "كتاب المساجد",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 296,
+        "chapterNumber": "9",
+        "chapterEnglish": "The Book of the Qiblah",
+        "chapterUrdu": "قبلہ کے احکام و مسائل",
+        "chapterArabic": "كتاب القبلة",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 297,
+        "chapterNumber": "10",
+        "chapterEnglish": "The Book of Leading the Prayer (Al-Imamah)",
+        "chapterUrdu": "امامت کے احکام و مسائل",
+        "chapterArabic": "كتاب الإمامة",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 298,
+        "chapterNumber": "11",
+        "chapterEnglish": "The Book of the Commencement of the Prayer",
+        "chapterUrdu": "نماز شروع کرنے کے مسائل و احکام",
+        "chapterArabic": "كتاب الافتتاح",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 299,
+        "chapterNumber": "12",
+        "chapterEnglish": "The Book of The At-Tatbiq (Clasping One's Hands Together)",
+        "chapterUrdu": "تطبیق کے احکام و مسائل",
+        "chapterArabic": "كتاب التطبيق",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 300,
+        "chapterNumber": "13",
+        "chapterEnglish": "The Book of Forgetfulness (In Prayer)",
+        "chapterUrdu": "نماز میں سہو کے احکام و مسائل",
+        "chapterArabic": "كتاب السهو",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 301,
+        "chapterNumber": "14",
+        "chapterEnglish": "The Book of Jumu`ah (Friday Prayer)",
+        "chapterUrdu": "کتاب جمعہ کے بیان میں",
+        "chapterArabic": "كتاب الجمعة",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 302,
+        "chapterNumber": "15",
+        "chapterEnglish": "The Book of Shortening the Prayer When Traveling",
+        "chapterUrdu": "سفر میں قصر نماز کے احکام و مسائل",
+        "chapterArabic": "كتاب تقصير الصلاة فى السفر",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 303,
+        "chapterNumber": "16",
+        "chapterEnglish": "The Book of Eclipses",
+        "chapterUrdu": "گرہن کے احکام و مسائل",
+        "chapterArabic": "كتاب الكسوف",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 304,
+        "chapterNumber": "17",
+        "chapterEnglish": "The Book of Praying for Rain (Al-Istisqa`)",
+        "chapterUrdu": "بارش طلب کرنے کے احکام و مسائل",
+        "chapterArabic": "كتاب الاستسقاء",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 305,
+        "chapterNumber": "18",
+        "chapterEnglish": "The Book of the Fear Prayer",
+        "chapterUrdu": "نماز خوف کے احکام و مسائل",
+        "chapterArabic": "كتاب صلاة الخوف",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 306,
+        "chapterNumber": "19",
+        "chapterEnglish": "The Book of the Prayer for the Two `Eids",
+        "chapterUrdu": "عیدین (عیدالفطر اور عیدالاضحی) کی نماز کے احکام و مسائل",
+        "chapterArabic": "كتاب صلاة العيدين",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 307,
+        "chapterNumber": "20",
+        "chapterEnglish": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+        "chapterUrdu": "تہجد (قیام اللیل) اور دن میں نفل نمازوں کے احکام و مسائل",
+        "chapterArabic": "كتاب قيام الليل وتطوع النهار",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 343,
+        "chapterNumber": "21",
+        "chapterEnglish": "The Book of Funerals",
+        "chapterUrdu": "جنازہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الجنائز",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 344,
+        "chapterNumber": "22",
+        "chapterEnglish": "The Book of Fasting",
+        "chapterUrdu": "روزوں کے احکام و مسائل و فضائل",
+        "chapterArabic": "كتاب الصيام",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 345,
+        "chapterNumber": "23",
+        "chapterEnglish": "The Book of Zakah",
+        "chapterUrdu": "زکاۃ و صدقات کے احکام و مسائل",
+        "chapterArabic": "كتاب الزكاة",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 405,
+        "chapterNumber": "24",
+        "chapterEnglish": "The Book of Hajj",
+        "chapterUrdu": "حج کے احکام و مناسک",
+        "chapterArabic": "كتاب مناسك الحج",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 406,
+        "chapterNumber": "25",
+        "chapterEnglish": "The Book of Jihad",
+        "chapterUrdu": "جہاد کے احکام، مسائل و فضائل",
+        "chapterArabic": "كتاب الجهاد",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 407,
+        "chapterNumber": "26",
+        "chapterEnglish": "The Book of Marriage",
+        "chapterUrdu": "نکاح ( شادی بیاہ ) کے احکام و مسائل",
+        "chapterArabic": "كتاب النكاح",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 408,
+        "chapterNumber": "27",
+        "chapterEnglish": "The Book of the Kind Treatment of Women",
+        "chapterUrdu": "عورتوں کے ساتھ معاشرت ( یعنی مل جل کر زندگی گزارنے ) کے احکام و مسائل",
+        "chapterArabic": "كتاب عشرة النساء",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 409,
+        "chapterNumber": "28",
+        "chapterEnglish": "The Book of Divorce",
+        "chapterUrdu": "طلاق کے احکام و مسائل",
+        "chapterArabic": "كتاب الطلاق",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 410,
+        "chapterNumber": "29",
+        "chapterEnglish": "The Book of Horses, Races and Shooting",
+        "chapterUrdu": "گھوڑوں سے متعلق احکام و مسائل",
+        "chapterArabic": "كتاب الخيل",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 411,
+        "chapterNumber": "30",
+        "chapterEnglish": "The Book of Endowments",
+        "chapterUrdu": "اللہ کی راہ میں مال وقف کرنے کے احکام و مسائل",
+        "chapterArabic": "كتاب الإحباس",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 412,
+        "chapterNumber": "31",
+        "chapterEnglish": "The Book of Wills",
+        "chapterUrdu": "وصیت کے احکام و مسائل",
+        "chapterArabic": "كتاب الوصايا",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 413,
+        "chapterNumber": "32",
+        "chapterEnglish": "The Book of Presents",
+        "chapterUrdu": "ہبہ اور عطیہ کے احکام و مسائل",
+        "chapterArabic": "كتاب النحل",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 414,
+        "chapterNumber": "33",
+        "chapterEnglish": "The Book of Gifts",
+        "chapterUrdu": "ہبہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الهبة",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 415,
+        "chapterNumber": "34",
+        "chapterEnglish": "The Book of Ar-Ruqba",
+        "chapterUrdu": "رقبیٰ ( یعنی زندگی سے مشروط ہبہ ) کے احکام و مسائل",
+        "chapterArabic": "كتاب الرقبى",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 416,
+        "chapterNumber": "35",
+        "chapterEnglish": "The Book of `Umra",
+        "chapterUrdu": "عمریٰ کے احکام و مسائل",
+        "chapterArabic": "كتاب العمرى",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 417,
+        "chapterNumber": "36",
+        "chapterEnglish": "The Book of Oaths and Vows",
+        "chapterUrdu": "قسم اور نذر کے احکام و مسائل",
+        "chapterArabic": "كتاب الأيمان والنذور",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 418,
+        "chapterNumber": "37",
+        "chapterEnglish": "The Book of Agriculture",
+        "chapterUrdu": "مزارعت (بٹائی پر زمین دینے) کے احکام و مسائل",
+        "chapterArabic": "كتاب المزارعة",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 419,
+        "chapterNumber": "38",
+        "chapterEnglish": "The Book of Fighting [The Prohibition of Bloodshed]",
+        "chapterUrdu": "قتل و خون ریزی کے احکام و مسائل",
+        "chapterArabic": "كتاب تحريم الدم",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 420,
+        "chapterNumber": "39",
+        "chapterEnglish": "The Book Of The Distribution Of Al-Fay'",
+        "chapterUrdu": "مال فی کی تقسیم سے متعلق احکام و مسائل",
+        "chapterArabic": "كتاب قسم الفىء",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 421,
+        "chapterNumber": "40",
+        "chapterEnglish": "The Book of al-Bay`ah",
+        "chapterUrdu": "بیعت کے احکام و مسائل",
+        "chapterArabic": "كتاب البيعة",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 422,
+        "chapterNumber": "41",
+        "chapterEnglish": "The Book of Al-`Aqiqah",
+        "chapterUrdu": "عقیقہ کے احکام و مسائل",
+        "chapterArabic": "كتاب العقيقة",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 423,
+        "chapterNumber": "42",
+        "chapterEnglish": "The Book of Al-Fara` and Al-`Atirah",
+        "chapterUrdu": "فرع و عتیرہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الفرع والعتيرة",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 424,
+        "chapterNumber": "43",
+        "chapterEnglish": "The Book of Hunting and Slaughtering",
+        "chapterUrdu": "شکار اور ذبیحہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الصيد والذبائح",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 425,
+        "chapterNumber": "44",
+        "chapterEnglish": "The Book of Ad-Dahaya (Sacrifices)",
+        "chapterUrdu": "قربانی کے احکام و مسائل",
+        "chapterArabic": "كتاب الضحايا",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 426,
+        "chapterNumber": "45",
+        "chapterEnglish": "The Book of Financial Transactions",
+        "chapterUrdu": "خرید و فروخت کے احکام و مسائل",
+        "chapterArabic": "كتاب البيوع",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 427,
+        "chapterNumber": "46",
+        "chapterEnglish": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+        "chapterUrdu": "قسامہ ، قصاص اور دیت کے احکام و مسائل",
+        "chapterArabic": "كتاب القسامة",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 428,
+        "chapterNumber": "47",
+        "chapterEnglish": "The Book of Cutting off the Hand of the Thief",
+        "chapterUrdu": "چور کا ہاتھ کاٹنے سے متعلق احکام و مسائل",
+        "chapterArabic": "كتاب قطع السارق",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 429,
+        "chapterNumber": "48",
+        "chapterEnglish": "The Book Of Faith and its Signs",
+        "chapterUrdu": "ایمان اور ارکان ایمان",
+        "chapterArabic": "كتاب الإيمان وشرائعه",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 430,
+        "chapterNumber": "49",
+        "chapterEnglish": "The Book of Adornment",
+        "chapterUrdu": "زیب و زینت اور آرائش کے احکام و مسائل",
+        "chapterArabic": "كتاب الزينة من السنن",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 431,
+        "chapterNumber": "50",
+        "chapterEnglish": "The Book of the Etiquette of Judges",
+        "chapterUrdu": "قاضیوں اور قضا کے آداب و احکام اور مسائل",
+        "chapterArabic": "كتاب آداب القضاة",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 432,
+        "chapterNumber": "51",
+        "chapterEnglish": "The Book of Seeking Refuge with Allah",
+        "chapterUrdu": "استعاذہ ( بری چیزوں سے اللہ کی پناہ مانگنے ) کے آداب و احکام",
+        "chapterArabic": "كتاب الاستعاذة",
+        "bookSlug": "sunan-nasai"
+    },
+    {
+        "id": 433,
+        "chapterNumber": "52",
+        "chapterEnglish": "The Book of Drinks",
+        "chapterUrdu": "مشروبات ( پینے والی چیزوں ) کے احکام و مسائل",
+        "chapterArabic": "كتاب الأشربة",
+        "bookSlug": "sunan-nasai"
+    }
+]

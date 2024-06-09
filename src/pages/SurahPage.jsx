@@ -30,6 +30,7 @@ const SurahPage = () => {
     const [verses, setVerses] = useState([])
     const [versesBn, setVersesBn] = useState([])
     useEffect(() => {
+        setLoading(true)
         if ((surahAyah.length >= parseInt(surahNumber) && parseInt(surahNumber) > 0 && parseInt(surahNumber) <= 114)) {
             setLoading(true)
             fetch(`https://api.quranwbw.com/v1/verses?verses=${JSON.stringify(surahAyah[surahNumber - 1]).split("\"").join("").replace(/\s/g, '')}&verse_translation=1&between=true`).then(res => res.json()).then(data => {
@@ -43,11 +44,18 @@ const SurahPage = () => {
         }
     }, [surahNumber])
 
-    console.log(versesBn);
-    console.log(verses);
-
     useEffect(() => {
-        axios(config)
+        axios({
+            method: 'get',
+            maxBodyLength: Infinity,
+            maxBodyLength: Infinity,
+            // url: `https://api.quran.com/api/v4/verses/by_chapter/${surahNumber}?language=arabic&translations=131&translations=20`,
+            url: `http://api.alquran.cloud/v1/surah/${surahNumber}`,
+            // url: `https://api.quran.com/api/v4/chapters/${surahNumber}`,
+            headers: {
+                'Accept': 'application/json'
+            }
+        })
             .then((response) => {
                 setSurah(response.data.data);
             })
@@ -158,7 +166,7 @@ const SurahPage = () => {
         <CommonLayout>
             <div className="mt-10 grid gap-10 text-3xl">
                 <div className="grid justify-center">
-                    <img src="/bismilla.png"  alt="" />
+                    <img src="/bismilla.png" alt="" />
                 </div>
                 <div className="relative flex items-center justify-between w-full bg-[#FCEDDC] p-5 mt-5 rounded-md ">
                     <div>
@@ -179,7 +187,7 @@ const SurahPage = () => {
                     }
                 </div>
                 <div>
-                   
+
 
                     {
                         loading && <svg className='surahLoadingSvg' viewBox="0 0 1320 300">

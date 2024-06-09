@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "bookName": "Sahih Bukhari",
+        "writerName": "Imam Bukhari",
+        "aboutWriter": null,
+        "writerDeath": "256 ھ",
+        "bookSlug": "sahih-bukhari",
+        "hadiths_count": "7533",
+        "chapters_count": "99"
+    },
+    {
+        "id": 2,
+        "bookName": "Sahih Muslim",
+        "writerName": "Imam Muslim",
+        "aboutWriter": null,
+        "writerDeath": "261 ھ",
+        "bookSlug": "sahih-muslim",
+        "hadiths_count": "7561",
+        "chapters_count": "56"
+    },
+    {
+        "id": 4,
+        "bookName": "Jami' Al-Tirmidhi",
+        "writerName": "Abu `Isa Muhammad at-Tirmidhi",
+        "aboutWriter": null,
+        "writerDeath": "279",
+        "bookSlug": "al-tirmidhi",
+        "hadiths_count": "3956",
+        "chapters_count": "50"
+    },
+    {
+        "id": 5,
+        "bookName": "Sunan Abu Dawood",
+        "writerName": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "aboutWriter": null,
+        "writerDeath": "275",
+        "bookSlug": "abu-dawood",
+        "hadiths_count": "5274",
+        "chapters_count": "43"
+    },
+    {
+        "id": 6,
+        "bookName": "Sunan Ibn-e-Majah",
+        "writerName": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "aboutWriter": null,
+        "writerDeath": "273",
+        "bookSlug": "ibn-e-majah",
+        "hadiths_count": "4341",
+        "chapters_count": "39"
+    },
+    {
+        "id": 7,
+        "bookName": "Sunan An-Nasa`i",
+        "writerName": "Imam Ahmad an-Nasa`i",
+        "aboutWriter": null,
+        "writerDeath": "303",
+        "bookSlug": "sunan-nasai",
+        "hadiths_count": "5761",
+        "chapters_count": "52"
+    },
+    {
+        "id": 8,
+        "bookName": "Mishkat Al-Masabih",
+        "writerName": "Imam Khatib at-Tabrizi",
+        "aboutWriter": null,
+        "writerDeath": "741",
+        "bookSlug": "mishkat",
+        "hadiths_count": "6293",
+        "chapters_count": "29"
+    },
+    {
+        "id": 9,
+        "bookName": "Musnad Ahmad",
+        "writerName": "Imam Ahmad ibn Hanbal",
+        "aboutWriter": null,
+        "writerDeath": "241",
+        "bookSlug": "musnad-ahmad",
+        "hadiths_count": "0",
+        "chapters_count": "14"
+    },
+    {
+        "id": 10,
+        "bookName": "Al-Silsila Sahiha",
+        "writerName": "Allama Muhammad Nasir Uddin Al-Bani",
+        "aboutWriter": "Al-Albani was an Albanian Islamic scholar, reformer and revivalist. Among the most prominent figures of Salafism, Al-Albani is widely regarded as one of the most significant Islamic scholars of the 20th century, and is frequently ranked as the greatest hadith scholar of all time.",
+        "writerDeath": "October 2, 1999",
+        "bookSlug": "al-silsila-sahiha",
+        "hadiths_count": "0",
+        "chapters_count": "28"
+    }
+]

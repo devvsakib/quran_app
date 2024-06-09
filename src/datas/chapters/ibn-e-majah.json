@@ -1,0 +1,314 @@
+[
+    {
+        "id": 249,
+        "chapterNumber": "1",
+        "chapterEnglish": "The Book of the Sunnah",
+        "chapterUrdu": "سنت کی اہمیت وفضیلت",
+        "chapterArabic": "كتاب السنة",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 250,
+        "chapterNumber": "2",
+        "chapterEnglish": "The Book of Purification and its Sunnah",
+        "chapterUrdu": "طہارت اور اس کے احکام و مسائل",
+        "chapterArabic": "كتاب الطهارة وسننها",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 251,
+        "chapterNumber": "3",
+        "chapterEnglish": "The Book of Tayammum (Rubbing Hands And Feet With Dust)",
+        "chapterUrdu": "تیمم کے احکام و مسائل",
+        "chapterArabic": "كتاب التيمم",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 252,
+        "chapterNumber": "4",
+        "chapterEnglish": "The Book of the Prayer",
+        "chapterUrdu": "صلاۃ کے احکام و مسائل",
+        "chapterArabic": "كتاب الصلاة",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 253,
+        "chapterNumber": "5",
+        "chapterEnglish": "The Book of the Adhan and the Sunnah Regarding It",
+        "chapterUrdu": "اذان کے احکام و مسائل اورسنن",
+        "chapterArabic": "كتاب الأذان والسنة فيها",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 254,
+        "chapterNumber": "6",
+        "chapterEnglish": "The Book on the Mosques and the Congregations",
+        "chapterUrdu": "مساجد اور جماعت کے احکام و مسائل",
+        "chapterArabic": "كتاب المساجد والجماعات",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 255,
+        "chapterNumber": "7",
+        "chapterEnglish": "Establishing the Prayer and the Sunnah Regarding Them",
+        "chapterUrdu": "اقامت صلاۃ اور اس کے سنن و آداب اور احکام و مسائل",
+        "chapterArabic": "كتاب إقامة الصلاة والسنة فيها",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 256,
+        "chapterNumber": "8",
+        "chapterEnglish": "Chapter Regarding Funerals",
+        "chapterUrdu": "صلاۃِ جنازہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الجنائز",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 257,
+        "chapterNumber": "9",
+        "chapterEnglish": "Fasting",
+        "chapterUrdu": "صیام کے احکام و مسائل",
+        "chapterArabic": "كتاب الصيام",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 258,
+        "chapterNumber": "10",
+        "chapterEnglish": "The Chapter Regarding Zakat",
+        "chapterUrdu": "زکاۃ کے احکام و مسائل",
+        "chapterArabic": "كتاب الزكاة",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 259,
+        "chapterNumber": "11",
+        "chapterEnglish": "The Chapter on Marriage",
+        "chapterUrdu": "نکاح کے احکام و مسائل",
+        "chapterArabic": "كتاب النكاح",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 260,
+        "chapterNumber": "12",
+        "chapterEnglish": "The Chapter on Divorce",
+        "chapterUrdu": "طلاق کے احکام و مسائل",
+        "chapterArabic": "كتاب الطلاق",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 261,
+        "chapterNumber": "13",
+        "chapterEnglish": "The Chapter on Expiation",
+        "chapterUrdu": "قسم اور کفاروں کے احکام و مسائل",
+        "chapterArabic": "كتاب الكفارات",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 262,
+        "chapterNumber": "14",
+        "chapterEnglish": "The Chapter on Business Transactions",
+        "chapterUrdu": "تجارت کے احکام و مسائل",
+        "chapterArabic": "كتاب التجارات",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 263,
+        "chapterNumber": "15",
+        "chapterEnglish": "The Chapter on Rulings",
+        "chapterUrdu": "قضا کے احکام و مسائل",
+        "chapterArabic": "كتاب الأحكام",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 264,
+        "chapterNumber": "16",
+        "chapterEnglish": "The Chapter on Gifts",
+        "chapterUrdu": "ہبہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الهبات",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 265,
+        "chapterNumber": "17",
+        "chapterEnglish": "The Chapter on Charity",
+        "chapterUrdu": "صدقات کے احکام و مسائل",
+        "chapterArabic": "كتاب الصدقات",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 266,
+        "chapterNumber": "18",
+        "chapterEnglish": "The Chapter on Pawning",
+        "chapterUrdu": "رہن کے احکام و مسائل",
+        "chapterArabic": "كتاب الرهون",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 267,
+        "chapterNumber": "19",
+        "chapterEnglish": "The Chapter on Pre-emption",
+        "chapterUrdu": "شفعہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الشفعة",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 268,
+        "chapterNumber": "20",
+        "chapterEnglish": "The Chapter on Lost Property",
+        "chapterUrdu": "لقطہ ( گم ‌شدہ ‌چیز ) کے احکام و مسائل",
+        "chapterArabic": "كتاب اللقطة",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 269,
+        "chapterNumber": "21",
+        "chapterEnglish": "The Chapter on Manumission (of Slaves)",
+        "chapterUrdu": "غلام کی آ زادی کے احکام و مسائل",
+        "chapterArabic": "كتاب العتق",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 270,
+        "chapterNumber": "22",
+        "chapterEnglish": "The Chapter on Legal Punishments",
+        "chapterUrdu": "حدود کے احکام و مسائل",
+        "chapterArabic": "كتاب الحدود",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 271,
+        "chapterNumber": "23",
+        "chapterEnglish": "The Chapter on Blood Money",
+        "chapterUrdu": "دیت (خون بہا) کے احکام و مسائل",
+        "chapterArabic": "كتاب الديات",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 272,
+        "chapterNumber": "24",
+        "chapterEnglish": "The Chapter on Wills",
+        "chapterUrdu": "وصیت کے احکام و مسائل",
+        "chapterArabic": "كتاب الوصايا",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 273,
+        "chapterNumber": "25",
+        "chapterEnglish": "The Chapter on Shares of Inheritance",
+        "chapterUrdu": "وراثت کے احکام و مسائل",
+        "chapterArabic": "كتاب الفرائض",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 274,
+        "chapterNumber": "26",
+        "chapterEnglish": "The Chapter on Jihad",
+        "chapterUrdu": "جہا د کے فضائل و احکام",
+        "chapterArabic": "كتاب الجهاد",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 275,
+        "chapterNumber": "27",
+        "chapterEnglish": "The Chapter on Hajj Rituals",
+        "chapterUrdu": "حج و عمرہ کے احکام و مسائل",
+        "chapterArabic": "كتاب المناسك",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 276,
+        "chapterNumber": "28",
+        "chapterEnglish": "The Chapter on Sacrifices",
+        "chapterUrdu": "قربانی کے احکام و مسائل",
+        "chapterArabic": "كتاب الأضاحي",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 277,
+        "chapterNumber": "29",
+        "chapterEnglish": "The Chapter on Slaughtering",
+        "chapterUrdu": "ذبیحہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الذبائح",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 278,
+        "chapterNumber": "30",
+        "chapterEnglish": "The Chapter on Hunting",
+        "chapterUrdu": "شکار کے احکام و مسائل",
+        "chapterArabic": "كتاب الصيد",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 279,
+        "chapterNumber": "31",
+        "chapterEnglish": "The Chapter on Food",
+        "chapterUrdu": "کھانوں کے احکام و مسائل",
+        "chapterArabic": "كتاب الأطعمة",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 280,
+        "chapterNumber": "32",
+        "chapterEnglish": "The Chapter on Drinks",
+        "chapterUrdu": "مشروبات کے احکام و مسائل",
+        "chapterArabic": "كتاب الأشربة",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 281,
+        "chapterNumber": "33",
+        "chapterEnglish": "The Chapter on Medicine",
+        "chapterUrdu": "طب کے احکام و مسائل",
+        "chapterArabic": "كتاب الطب",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 282,
+        "chapterNumber": "34",
+        "chapterEnglish": "The Chapter on Dress",
+        "chapterUrdu": "لباس کے احکام و مسائل",
+        "chapterArabic": "كتاب اللباس",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 283,
+        "chapterNumber": "35",
+        "chapterEnglish": "Etiquette",
+        "chapterUrdu": "آداب و اخلاق",
+        "chapterArabic": "كتاب الأدب",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 284,
+        "chapterNumber": "36",
+        "chapterEnglish": "Supplication",
+        "chapterUrdu": "دعا کے فضائل و آداب اور احکام و مسائل",
+        "chapterArabic": "كتاب الدعاء",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 285,
+        "chapterNumber": "37",
+        "chapterEnglish": "Interpretation of Dreams",
+        "chapterUrdu": "خواب کی تعبیر سے متعلق احکام و مسائل",
+        "chapterArabic": "كتاب تعبير الرؤيا",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 286,
+        "chapterNumber": "38",
+        "chapterEnglish": "Tribulations",
+        "chapterUrdu": "فتنوں سے متعلق احکام و مسائل",
+        "chapterArabic": "كتاب الفتن",
+        "bookSlug": "ibn-e-majah"
+    },
+    {
+        "id": 287,
+        "chapterNumber": "39",
+        "chapterEnglish": "Zuhd",
+        "chapterUrdu": "زہد کے احکام و مسائل",
+        "chapterArabic": "كتاب الزهد",
+        "bookSlug": "ibn-e-majah"
+    }
+]
