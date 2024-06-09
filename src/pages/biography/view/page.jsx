@@ -34,7 +34,7 @@ const SheikhBio = () => {
                     ]}
                 />
 
-                <div className="grid grid-cols-5">
+                <div className="grid grid-cols-5 gap-10 md:gap-0">
                     <div className="col-span-5 md:col-span-2">
                         <img src={images[sheikh.id]} alt={sheikh.name}
                             className="h-[250px] w-[250px] object-cover object-center rounded-md"
@@ -47,7 +47,7 @@ const SheikhBio = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-span-3">
+                    <div className="col-span-5 md:col-span-3">
                         {sheikh && sheikh.biography && Object.keys(sheikh.biography).map((key, idx) => (
                             <div key={idx} className="mb-5">
                                 <h1 className="text-lg font-semibold capitalize">{key.split("_").join(" ")}</h1>
